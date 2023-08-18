@@ -1,0 +1,637 @@
+[
+    {
+        "type": "article-journal",
+        "title": "Memory reactivation and suppression modulate integration of the semantic features of related memories in hippocampus",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Zippi",
+                "given": "Ellen L"
+            },
+            {
+                "family": "Preston",
+                "given": "Alison R"
+            }
+        ],
+        "container-title": "Cerebral Cortex",
+        "ISSN": "1047-3211",
+        "DOI": "10.1093/cercor/bhad179",
+        "PMID": "37264937",
+        "code": "https://github.com/prestonlab/bender_study",
+        "post": "https://twitter.com/preston_lab/status/1667218416279666699?s=20",
+        "abstract": "Abstract Encoding an event that overlaps with a previous experience may involve reactivating an existing memory and integrating it with new information or suppressing the existing memory to promote formation of a distinct, new representation. We used fMRI during overlapping event encoding to track reactivation and suppression of individual, related memories. We further used a model of semantic knowledge based on Wikipedia to quantify both reactivation of semantic knowledge related to a previous event and formation of integrated memories containing semantic features of both events. Representational similarity analysis revealed that reactivation of semantic knowledge related to a prior event in posterior medial prefrontal cortex (pmPFC) supported memory integration during new learning. Moreover, anterior hippocampus (aHPC) formed integrated representations combining the semantic features of overlapping events. We further found evidence that aHPC integration may be modulated on a trial-by-trial basis by interactions between ventrolateral PFC and anterior mPFC, with suppression of item-specific memory representations in anterior mPFC inhibiting hippocampal integration. These results suggest that PFC-mediated control processes determine the availability of specific relevant memories during new learning, thus impacting hippocampal memory integration.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        },
+        "icon": "images/2023_Morton.png",
+        "journalAbbreviation": "Cereb. Cortex",
+        "id": "bf51ab9b-e6a6-42ff-868c-753a6cbf1ec3"
+    },
+    {
+        "type": "article-journal",
+        "title": "Representations of Temporal Community Structure in Hippocampus and Precuneus Predict Inductive Reasoning Decisions",
+        "author": [
+            {
+                "family": "Pudhiyidath",
+                "given": "Athula"
+            },
+            {
+                "family": "Morton",
+                "given": "Neal W."
+            },
+            {
+                "family": "Duran",
+                "given": "Rodrigo Viveros"
+            },
+            {
+                "family": "Schapiro",
+                "given": "Anna C."
+            },
+            {
+                "family": "Momennejad",
+                "given": "Ida"
+            },
+            {
+                "family": "Hinojosa-Rowland",
+                "given": "Demitrius M."
+            },
+            {
+                "family": "Molitor",
+                "given": "Robert J."
+            },
+            {
+                "family": "Preston",
+                "given": "Alison R."
+            }
+        ],
+        "container-title": "Journal of Cognitive Neuroscience",
+        "ISSN": "0898-929X",
+        "DOI": "10.1162/jocn_a_01864",
+        "PMID": "35579986",
+        "icon": "images/2022_PudhiyidathMorton.png",
+        "abstract": "Our understanding of the world is shaped by inferences about underlying structure. For example, at the gym, you might notice that the same people tend to arrive around the same time and infer that they are friends that work out together. Consistent with this idea, after participants are presented with a temporal sequence of objects that follows an underlying community structure, they are biased to infer that objects from the same community share the same properties. Here, we used fMRI to measure neural representations of objects after temporal community structure learning and examine how these representations support inference about object relationships. We found that community structure learning affected inferred object similarity: When asked to spatially group items based on their experience, participants tended to group together objects from the same community. Neural representations in perirhinal cortex predicted individual differences in object grouping, suggesting that high-level object representations are affected by temporal community learning. Furthermore, participants were biased to infer that objects from the same community would share the same properties. Using computational modeling of temporal learning and inference decisions, we found that inductive reasoning is influenced by both detailed knowledge of temporal statistics and abstract knowledge of the temporal communities. The fidelity of temporal community representations in hippocampus and precuneus predicted the degree to which temporal community membership biased reasoning decisions. Our results suggest that temporal knowledge is represented at multiple levels of abstraction, and that perirhinal cortex, hippocampus, and precuneus may support inference based on this knowledge.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        },
+        "journalAbbreviation": "J Cognitive Neurosci",
+        "page": "1736-1760",
+        "issue": "10",
+        "volume": "34",
+        "id": "99c19351-6ecb-43d9-bb28-12db90e6c7a0"
+    },
+    {
+        "type": "article-journal",
+        "title": "Semantic Knowledge of Famous People and Places Is Represented in Hippocampus and Distinct Cortical Networks",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Zippi",
+                "given": "Ellen L."
+            },
+            {
+                "family": "Noh",
+                "given": "Sharon M."
+            },
+            {
+                "family": "Preston",
+                "given": "Alison R."
+            }
+        ],
+        "container-title": "Journal of Neuroscience",
+        "ISSN": "0270-6474",
+        "DOI": "10.1523/jneurosci.2034-19.2021",
+        "PMID": "33547163",
+        "icon": "images/2021_MortonZippi.png",
+        "code": "https://github.com/prestonlab/wikisim",
+        "post": "https://twitter.com/preston_lab/status/1359200084462866438?s=20",
+        "abstract": "Studies have found that anterior temporal lobe (ATL) is critical for detailed knowledge of object categories, suggesting that it has an important role in semantic memory. However, in addition to information about entities, such as people and objects, semantic memory also encompasses information about places. We tested predictions stemming from the PMAT model, which proposes there are distinct systems that support different kinds of semantic knowledge: an anterior temporal (AT) network, which represents information about entities; and a posterior medial (PM) network, which represents information about places. We used representational similarity analysis to test for activation of semantic features when human participants viewed pictures of famous people and places, while controlling for visual similarity. We used machine learning techniques to quantify the semantic similarity of items based on encyclopedic knowledge in the Wikipedia page for each item and found that these similarity models accurately predict human similarity judgments. We found that regions within the AT network, including ATL and inferior frontal gyrus, represented detailed semantic knowledge of people. In contrast, semantic knowledge of places was represented within PM network areas, including precuneus, posterior cingulate cortex, angular gyrus, and parahippocampal cortex. Finally, we found that hippocampus, which has been proposed to serve as an interface between the AT and PM networks, represented fine-grained semantic similarity for both individual people and places. Our results provide evidence that semantic knowledge of people and places is represented separately in AT and PM areas, whereas hippocampus represents semantic knowledge of both categories.SIGNIFICANCE STATEMENT Humans acquire detailed semantic knowledge about people (e.g., their occupation and personality) and places (e.g., their cultural or historical significance). While research has demonstrated that brain regions preferentially respond to pictures of people and places, less is known about whether these regions preferentially represent semantic knowledge about specific people and places. We used machine learning techniques to develop a model of semantic similarity based on information available from Wikipedia, validating the model against similarity ratings from human participants. Using our computational model, we found that semantic knowledge about people and places is represented in distinct anterior temporal and posterior medial brain networks, respectively. We further found that hippocampus, an important memory center, represented semantic knowledge for both types of stimuli.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        },
+        "journalAbbreviation": "J Neurosci",
+        "page": "2762-2779",
+        "issue": "12",
+        "volume": "41",
+        "id": "18c46088-c7c1-4053-8ab1-c45057b67414"
+    },
+    {
+        "type": "article-journal",
+        "title": "Memory Reactivation during Learning Simultaneously Promotes Dentate Gyrus/CA2,3 Pattern Differentiation and CA1 Memory Integration",
+        "author": [
+            {
+                "family": "Molitor",
+                "given": "Robert J."
+            },
+            {
+                "family": "Sherrill",
+                "given": "Katherine R."
+            },
+            {
+                "family": "Morton",
+                "given": "Neal W."
+            },
+            {
+                "family": "Miller",
+                "given": "Alexandra A."
+            },
+            {
+                "family": "Preston",
+                "given": "Alison R."
+            }
+        ],
+        "container-title": "Journal of Neuroscience",
+        "ISSN": "0270-6474",
+        "DOI": "10.1523/jneurosci.0394-20.2020",
+        "PMID": "33239402",
+        "icon": "images/2021_Molitor.png",
+        "abstract": "Events that overlap with previous experience may trigger reactivation of existing memories. However, such reactivation may have different representational consequences within the hippocampal circuit. Computational theories of hippocampal function suggest that dentate gyrus and CA2,3 (DG/CA2,3) are biased to differentiate highly similar memories, whereas CA1 may integrate related events by representing them with overlapping neural codes. Here, we tested whether the formation of differentiated or integrated representations in hippocampal subfields depends on the strength of memory reactivation during learning. Human participants of both sexes learned associations (AB pairs, either face-shape or scene-shape), and then underwent fMRI scanning while they encoded overlapping associations (BC shape-object pairs). Both before and after learning, participants were also scanned while viewing indirectly related elements of the overlapping memories (A and C images) in isolation. We used multivariate pattern analyses to measure reactivation of initial pair memories (A items) during overlapping pair (BC) learning, as well as learning-related representational change for indirectly related memory elements in hippocampal subfields. When prior memories were strongly reactivated during overlapping pair encoding, DG/CA2,3 and subiculum representations for indirectly related images (A and C) became less similar, consistent with pattern differentiation. Simultaneously, memory reactivation during new learning promoted integration in CA1, where representations for indirectly related memory elements became more similar after learning. Furthermore, memory reactivation and subiculum representation predicted faster and more accurate inference (AC) decisions. These data show that reactivation of related memories during new learning leads to dissociable coding strategies in hippocampal subfields, in line with computational theories.SIGNIFICANCE STATEMENT The flexibility of episodic memory allows us to remember both the details that differentiate similar events and the commonalities among them. Here, we tested how reactivation of past experience during new learning promotes formation of neural representations that might serve these two memory functions. We found that memory reactivation during learning promoted formation of differentiated representations for overlapping memories in the dentate gyrus/CA2,3 and subiculum subfields of the hippocampus, while simultaneously leading to the formation of integrated representations of related events in subfield CA1. Furthermore, memory reactivation and subiculum representation predicted success when inferring indirect relationships among events. These findings indicate that memory reactivation is an important learning signal that influences how overlapping events are represented within the hippocampal circuit.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        },
+        "journalAbbreviation": "J Neurosci",
+        "page": "726-738",
+        "issue": "4",
+        "volume": "41",
+        "id": "4b933050-882e-45a2-ba40-dd10a64cc9aa"
+    },
+    {
+        "type": "article-journal",
+        "title": "Concept formation as a computational cognitive process",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Preston",
+                "given": "Alison R"
+            }
+        ],
+        "container-title": "Current Opinion in Behavioral Sciences",
+        "ISSN": "2352-1546",
+        "DOI": "10.1016/j.cobeha.2020.12.005",
+        "icon": "images/2021_Morton.png",
+        "abstract": "Hippocampus and entorhinal cortex form cognitive maps that represent relations among memories within a multidimensional space. While these relational maps have long been proposed to contribute to episodic memory, recent work suggests that they also support concept formation by representing relevant features for discriminating among related concepts. Cognitive maps may be refined by medial prefrontal cortex, which selects dimensions to represent based on their behavioral relevance. Hippocampal pattern completion, which is critical for retrieval of episodic memories, may also contribute to generalization of existing concepts to new exemplars. Navigation within hippocampal cognitive maps, which is guided by grid coding in entorhinal cortex, may contribute to imagination through recombination of event elements or concept features.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        },
+        "journalAbbreviation": "Curr Opin Behav Sci",
+        "page": "83-89",
+        "volume": "38",
+        "id": "1365515e-5438-483e-9321-dc236f69ad53"
+    },
+    {
+        "type": "article-journal",
+        "title": "Representations of common event structure in medial temporal lobe and frontoparietal cortex support efficient inference",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Schlichting",
+                "given": "Margaret L."
+            },
+            {
+                "family": "Preston",
+                "given": "Alison R."
+            }
+        ],
+        "container-title": "Proceedings of the National Academy of Sciences",
+        "ISSN": "0027-8424",
+        "DOI": "10.1073/pnas.1912338117",
+        "PMID": "33229532",
+        "icon": "images/2020_Morton2.png",
+        "data": "https://osf.io/6eqbf/",
+        "code": "https://github.com/mortonne/nireact",
+        "abstract": "Prior work has shown that the brain represents memories within a cognitive map that supports inference about connections between individual related events. Real-world adaptive behavior is also supported by recognizing common structure among numerous distinct contexts; for example, based on prior experience with restaurants, when visiting a new restaurant one can expect to first get a table, then order, eat, and finally pay the bill. We used a neurocomputational approach to examine how the brain extracts and uses abstract representations of common structure to support novel decisions. Participants learned image pairs (AB, BC) drawn from distinct triads (ABC) that shared the same internal structure and were then tested on their ability to infer indirect (AC) associations. We found that hippocampal and frontoparietal regions formed abstract representations that coded cross-triad relationships with a common geometric structure. Critically, such common representational geometries were formed despite the lack of explicit reinforcement to do so. Furthermore, we found that representations in parahippocampal cortex are hierarchical, reflecting both cross-triad relationships and distinctions between triads. We propose that representations with common geometric structure provide a vector space that codes inferred item relationships with a direction vector that is consistent across triads, thus supporting faster inference. Using computational modeling of response time data, we found evidence for dissociable vector-based retrieval and pattern-completion processes that contribute to successful inference. Moreover, we found evidence that these processes are mediated by distinct regions, with pattern completion supported by hippocampus and vector-based retrieval supported by parahippocampal cortex and lateral parietal cortex.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2020"
+                ]
+            ]
+        },
+        "journalAbbreviation": "Proc National Acad Sci",
+        "page": "201912338",
+        "issue": "47",
+        "volume": "117",
+        "id": "78c6dc0d-c959-4a56-a502-166e75dcb2dd"
+    },
+    {
+        "type": "article-journal",
+        "title": "Psifr: Analysis and visualization of free recall data",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal"
+            }
+        ],
+        "container-title": "Journal of Open Source Software",
+        "DOI": "10.21105/joss.02669",
+        "icon": "images/2020_Morton.png",
+        "code": "https://github.com/mortonne/psifr",
+        "post": "https://twitter.com/NealWMorton/status/1588534267532886016?s=20",
+        "issued": {
+            "date-parts": [
+                [
+                    "2020"
+                ]
+            ]
+        },
+        "journalAbbreviation": "J Open Source Softw",
+        "page": "2669",
+        "issue": "54",
+        "volume": "5",
+        "id": "bb76f5d1-0073-4e8b-bdeb-f7d881371f95"
+    },
+    {
+        "type": "article-journal",
+        "title": "Memory integration constructs maps of space, time, and concepts",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Sherrill",
+                "given": "Katherine R"
+            },
+            {
+                "family": "Preston",
+                "given": "Alison R"
+            }
+        ],
+        "container-title": "Current Opinion in Behavioral Sciences",
+        "ISSN": "2352-1546",
+        "DOI": "10.1016/j.cobeha.2017.08.007",
+        "PMID": "28924579",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S2352154616302741",
+        "abstract": "Recent evidence demonstrates that new events are learned in the context of their relationships to existing memories. Within the hippocampus and medial prefrontal cortex, related memories are represented by integrated codes that connect events experienced at different times and places. Integrated codes form the basis of spatial, temporal, and conceptual maps of experience. These maps represent information that goes beyond direct experience and support generalization behaviors that require knowledge be used in new ways. The degree to which an individual memory is integrated into a coherent map is determined by its spatial, temporal, and conceptual proximity to existing knowledge. Integration is observed over a wide range of scales, suggesting that memories contain information about both broad and fine-grained contexts.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2017",
+                    "10",
+                    "01"
+                ]
+            ]
+        },
+        "journalAbbreviation": "Curr Opin Behav Sci",
+        "page": "161 168",
+        "volume": "17",
+        "language": "English",
+        "note": "Hello world.",
+        "citekey": "Morton:2017ig",
+        "id": "9940742B-8FD6-41D0-B11F-0AB247FDA5AF"
+    },
+    {
+        "type": "article-journal",
+        "title": "Beta-band activity represents the recent past during episodic encoding",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Polyn",
+                "given": "Sean M"
+            }
+        ],
+        "container-title": "NeuroImage",
+        "ISSN": "1053-8119",
+        "DOI": "10.1016/j.neuroimage.2016.12.049",
+        "PMID": "28012968",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S1053811916307765",
+        "abstract": "While much research has focused on understanding how individual stimuli are encoded in episodic memory, less is known about how a series of events is bound into a coherent episode. Cognitive models of episodic memory propose that information about presented stimuli is integrated into a composite representation reflecting one's past experience, allowing events separated in time to become associated. Recent evidence suggests that neural oscillatory activity may be critically involved in this process. To examine how oscillatory activity contributes to binding of information across events, we measured scalp EEG as participants studied categorized lists of people, places, and objects. We assessed their memory for the lists using free recall, allowing us to characterize the temporal and semantic organization of the studied items in memory. Using pattern classification, we identified EEG activity during encoding at a range of frequencies and scalp locations that was sensitive to the category of presented stimuli. In the beta band (16–25 Hz) at right posterior electrodes, we observed activity that was also sensitive to the category of recently presented stimuli. This neural activity showed two characteristics consistent with a representation of the recent past: It became stronger when multiple items from the same category were presented in succession, and it contained a fading trace of the previous category after a category shift. When items were separated by an inter-item distraction task, this integrative beta-band activity was disrupted. Distraction also led to decreased semantic organization of the studied materials without affecting their temporal organization; this suggests that distraction disrupts the integration of semantic information over time, preventing encoding of items in terms of the semantic context of earlier items. Our results provide evidence that beta-band activity is involved in maintaining information about recent events, allowing construction of a coherent representation of a temporally extended episode in memory.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2017",
+                    "02",
+                    "15"
+                ]
+            ]
+        },
+        "journalAbbreviation": "Neuroimage",
+        "page": "692 702",
+        "volume": "147",
+        "language": "English",
+        "citekey": "Morton:2017hg",
+        "id": "244c66b7-0c0e-499c-a40b-d8356af7c654"
+    },
+    {
+        "type": "article-journal",
+        "title": "Neural Activity in the Medial Temporal Lobe Reveals the Fidelity of Mental Time Travel",
+        "author": [
+            {
+                "family": "Kragel",
+                "given": "James E."
+            },
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Polyn",
+                "given": "Sean M."
+            }
+        ],
+        "container-title": "The Journal of Neuroscience",
+        "ISSN": "0270-6474",
+        "DOI": "10.1523/jneurosci.3378-14.2015",
+        "PMID": "25698731",
+        "URL": "http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.3378-14.2015",
+        "abstract": "Neural circuitry in the medial temporal lobe (MTL) is critically involved in mental time travel, which involves the vivid retrieval of the details of past experience. Neuroscientific theories propose that the MTL supports memory of the past by retrieving previously encoded episodic information, as well as by reactivating a temporal code specifying the position of a particular event within an episode. However, the neural computations supporting these abilities are underspecified. To test hypotheses regarding the computational mechanisms supported by different MTL subregions during mental time travel, we developed a computational model that linked a blood oxygenation level-dependent signal to cognitive operations, allowing us to predict human performance in a memory search task. Activity in the posterior MTL, including parahippocampal cortex, reflected how strongly one reactivates the temporal context of a retrieved memory, allowing the model to predict whether the next memory will correspond to a nearby moment in the study episode. A signal in the anterior MTL, including perirhinal cortex, indicated the successful retrieval of list items, without providing information regarding temporal organization. A hippocampal signal reflected both processes, consistent with theories that this region binds item and context information together to form episodic memories. These findings provide evidence for modern theories that describe complementary roles of the hippocampus and surrounding parahippocampal and perirhinal cortices during the retrieval of episodic memories, shaping how humans revisit the past.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2015",
+                    "02",
+                    "18"
+                ]
+            ]
+        },
+        "journalAbbreviation": "J Neurosci",
+        "page": "2914 2926",
+        "issue": "7",
+        "volume": "35",
+        "language": "English",
+        "citekey": "Kragel:2015ck",
+        "id": "9C99D3DF-9F15-41EB-AD7F-0E9D33E2BCBF"
+    },
+    {
+        "type": "article-journal",
+        "title": "A predictive framework for evaluating models of semantic organization in free recall",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Polyn",
+                "given": "Sean M."
+            }
+        ],
+        "container-title": "Journal of Memory and Language",
+        "ISSN": "0749-596X",
+        "DOI": "10.1016/j.jml.2015.10.002",
+        "PMID": "28331243",
+        "URL": "http://live.elsevierproofcentral.com/opt4/index.php?token=SPSab9b6d74d00ceb3e28af6770a7d1b732",
+        "abstract": "Research in free recall has demonstrated that semantic associations reliably influence the organization of search through episodic memory. However, the specific structure of these associations and the mechanisms by which they influence memory search remain unclear. We introduce a likelihood-based model-comparison technique, which embeds a model of semantic structure within the context maintenance and retrieval (CMR) model of human memory search. Within this framework, model variants are evaluated in terms of their ability to predict the specific sequence in which items are recalled. We compare three models of semantic structure, latent semantic analysis (LSA), global vectors (GloVe), and word association spaces (WAS), and find that models using WAS have the greatest predictive power. Furthermore, we find evidence that semantic and temporal organization is driven by distinct item and context cues, rather than a single context cue. This finding provides important constraint for theories of memory search.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2016",
+                    "01"
+                ]
+            ]
+        },
+        "journalAbbreviation": "J Mem Lang",
+        "page": "119 140",
+        "volume": "86",
+        "language": "English",
+        "citekey": "Morton:2016fk",
+        "id": "425F27FC-46D1-4752-9535-C4D55DC2BE2F"
+    },
+    {
+        "type": "article-journal",
+        "author": [
+            {
+                "family": "Chan",
+                "given": "Stephanie C.Y."
+            },
+            {
+                "family": "Applegate",
+                "given": "Marissa C."
+            },
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Polyn",
+                "given": "Sean M."
+            },
+            {
+                "family": "Norman",
+                "given": "Kenneth A."
+            }
+        ],
+        "title": "Lingering representations of stimuli influence recall organization",
+        "abstract": "Several prominent theories posit that information about recent experiences lingers in the brain and organizes memories for current experiences, by forming a temporal context that is linked to those memories at encoding. According to these theories, if the thoughts preceding an experience X resemble the thoughts preceding an experience Y, then X and Y should show an elevated probability of being recalled together. We tested this prediction by using multi-voxel pattern analysis (MVPA) of fMRI data to measure neural evidence for lingering processing of preceding stimuli. As predicted, memories encoded with similar lingering thoughts about the category of preceding stimuli were more likely to be recalled together. Our results demonstrate that the “fading embers” of previous stimuli help to organize recall, confirming a key prediction of computational models of episodic memory.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2015",
+                    "02",
+                    "05"
+                ]
+            ]
+        },
+        "DOI": "10.1016/j.neuropsychologia.2017.01.029",
+        "PMID": "28132858",
+        "citekey": "Chan:2015wc",
+        "id": "E6811A8D-BF09-4672-B21E-9E3B0893D0FD"
+    },
+    {
+        "type": "article-journal",
+        "title": "Temporal context and the organisational impairment of memory search in schizophrenia",
+        "author": [
+            {
+                "family": "Polyn",
+                "given": "Sean M."
+            },
+            {
+                "family": "McCluey",
+                "given": "Joshua D."
+            },
+            {
+                "family": "Morton",
+                "given": "Neal W."
+            },
+            {
+                "family": "Woolard",
+                "given": "Austin A."
+            },
+            {
+                "family": "Luksik",
+                "given": "Andrew S."
+            },
+            {
+                "family": "Heckers",
+                "given": "Stephan"
+            }
+        ],
+        "container-title": "Cognitive Neuropsychiatry",
+        "ISSN": "1354-6805",
+        "DOI": "10.1080/13546805.2015.1031372",
+        "PMID": "25861879",
+        "abstract": "Introduction. An influential theory of schizophrenic deficits in executive function suggests that patients have difficulty maintaining and utilising an internal contextual representation, whose function is to ensure that stimuli are processed in a task-appropriate manner. In basic research on episodic memory, retrieved-context theories propose that an internal contextual representation is critically involved in memory search, facilitating the retrieval of task-appropriate memories. This contextual machinery is thought to give rise to temporal organisation during free recall: the tendency for successive recall responses to correspond to items from nearby positions on the study list. If patients with schizophrenia have a generalised contextual deficit, then this leads to the prediction that these patients will exhibit reduced temporal organisation in free recall.Methods. Using a combination of classic and recently developed organisational measures, we characterised recall organisation in 75 patients with schizophrenia and 72 nondisordered control participants performing a multi-trial free-recall task.Results. Patients with schizophrenia showed diminished temporal organisation, as well as diminished subjective organisation of their recall sequences relative to control participants. The two groups showed similar amounts of semantic organisation during recall.Conclusions. The observation of reduced temporal organisation in the patient group is consistent with the proposal that the memory deficit in schizophrenia can be characterised as a deficit in contextual processing.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2015",
+                    "04",
+                    "10"
+                ]
+            ]
+        },
+        "journalAbbreviation": "Cogn Neuropsychiatry",
+        "page": "296-310",
+        "issue": "4",
+        "volume": "20",
+        "language": "English",
+        "citekey": "Polyn:2014te",
+        "id": "AB3A7FFD-444C-4CFF-98C2-278E3B2FBD71"
+    },
+    {
+        "type": "book",
+        "title": "Developing a neurocognitive model of temporal and semantic organization of memory search",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            }
+        ],
+        "issued": {
+            "date-parts": [
+                [
+                    "2014"
+                ]
+            ]
+        },
+        "link": "https://etd.library.vanderbilt.edu/etd-09232014-174611"
+    },
+    {
+        "type": "article-journal",
+        "title": "Category-Specific Neural Oscillations Predict Recall Organization During Memory Search",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W."
+            },
+            {
+                "family": "Kahana",
+                "given": "Michael J."
+            },
+            {
+                "family": "Rosenberg",
+                "given": "Emily A."
+            },
+            {
+                "family": "Baltuch",
+                "given": "Gordon H."
+            },
+            {
+                "family": "Litt",
+                "given": "Brian"
+            },
+            {
+                "family": "Sharan",
+                "given": "Ashwini D."
+            },
+            {
+                "family": "Sperling",
+                "given": "Michael R."
+            },
+            {
+                "family": "Polyn",
+                "given": "Sean M."
+            }
+        ],
+        "container-title": "Cerebral Cortex",
+        "ISSN": "1047-3211",
+        "DOI": "10.1093/cercor/bhs229",
+        "PMID": "22875859",
+        "PMCID": "PMC3767960",
+        "abstract": "Retrieved-context models of human memory propose that as material is studied, retrieval cues are constructed that allow one to target particular aspects of past experience. We examined the neural predictions of these models by using electrocorticographic/depth recordings and scalp electroencephalography (EEG) to characterize category-specific oscillatory activity, while participants studied and recalled items from distinct, neurally discriminable categories. During study, these category-specific patterns predict whether a studied item will be recalled. In the scalp EEG experiment, category-specific activity during study also predicts whether a given item will be recalled adjacent to other same-category items, consistent with the proposal that a category-specific retrieval cue is used to guide memory search. Retrieved-context models suggest that integrative neural circuitry is involved in the construction and maintenance of the retrieval cue. Consistent with this hypothesis, we observe category-specific patterns that rise in strength as multiple same-category items are studied sequentially, and find that individual differences in this category-specific neural integration during study predict the degree to which a participant will use category information to organize memory search. Finally, we track the deployment of this retrieval cue during memory search: Category-specific patterns are stronger when participants organize their responses according to the category of the studied material.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2013",
+                    "10"
+                ]
+            ]
+        },
+        "journalAbbreviation": "Cereb Cortex",
+        "page": "2407-2422",
+        "issue": "10",
+        "volume": "23",
+        "language": "English",
+        "citekey": "MortEtal13",
+        "id": "0B5FA941-1E97-4396-A06D-8C9AE5A79CF5"
+    },
+    {
+        "type": "article-journal",
+        "title": "The neural dynamics of task context in free recall",
+        "author": [
+            {
+                "family": "Polyn",
+                "given": "Sean M."
+            },
+            {
+                "family": "Kragel",
+                "given": "James E."
+            },
+            {
+                "family": "Morton",
+                "given": "Neal W."
+            },
+            {
+                "family": "McCluey",
+                "given": "Joshua D."
+            },
+            {
+                "family": "Cohen",
+                "given": "Zachary D."
+            }
+        ],
+        "container-title": "Neuropsychologia",
+        "ISSN": "0028-3932",
+        "DOI": "10.1016/j.neuropsychologia.2011.08.025",
+        "PMID": "21907726",
+        "abstract": "Multivariate pattern analysis (MVPA) is a powerful tool for relating theories of cognitive function to the neural dynamics observed while people engage in cognitive tasks. Here, we use the Context Maintenance and Retrieval model of free recall (CMR; Polyn et al., 2009a) to interpret variability in the strength of task-specific patterns of distributed neural activity as participants study and recall lists of words. The CMR model describes how temporal and source-related (here, encoding task) information combine in a contextual representation that is responsible for guiding memory search. Each studied word in the free-recall paradigm is associated with one of two encoding tasks (size and animacy) that have distinct neural representations during encoding. We find evidence for the context retrieval hypothesis central to the CMR model: Task-specific patterns of neural activity are reactivated during memory search, as the participant recalls an item previously associated with a particular task. Furthermore, we find that the fidelity of these task representations during study is related to task-shifting, the serial position of the studied item, and variability in the magnitude of the recency effect across participants. The CMR model suggests that these effects may be related to a central parameter of the model that controls the rate that an internal contextual representation integrates information from the surrounding environment.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2012",
+                    "03",
+                    "01"
+                ]
+            ]
+        },
+        "journalAbbreviation": "Neuropsychologia",
+        "page": "447-457",
+        "issue": "4",
+        "volume": "50",
+        "citekey": "Polyn:2011tr",
+        "id": "621B6E59-9225-4249-AE84-686781D14E79"
+    }
+]
