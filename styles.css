@@ -1,0 +1,21 @@
+/* css styles */
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 400 px;
+}
+
+.icon {
+  display: block;
+  width: 100%;
+  max-width: 500 px;
+  height: auto;
+  margin: auto;
+  border: 1px solid;
+}
+
+.bib-entry {
+  border: 1px solid;
+}
