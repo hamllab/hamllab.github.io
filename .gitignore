@@ -7,3 +7,4 @@
 _site/
 .venv/
 .DS_Store
+*combined.png
