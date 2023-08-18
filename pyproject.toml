@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "haml"
+version = "0.1.0"
+authors = [
+    {name = "Neal Morton", email = "mortonne@gmail.com"},
+]
+description = "Staging area for HaML Lab website"
+readme = "README.md"
+requires-python = ">=3.7"
+keywords = ["quarto"]
+license = {text = "GPL-3.0-or-later"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "numpy",
+    "Pillow",
+    "jupyter",
+    "citeproc-py",
+]
