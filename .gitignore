@@ -8,3 +8,8 @@ _site/
 .venv/
 .DS_Store
 *combined.png
+
+/.quarto/
+
+*.egg-info/
+*.pyc
