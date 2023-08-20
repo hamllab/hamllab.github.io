@@ -24,7 +24,7 @@ def gen_publications(json_file, csl_file, icon_background, icon_default):
     bib_sort_keys = {}
     for key, val in bib_source.items():
         if "issued" not in val:
-            bib_sort_keys[key] = (0, 0, 0)
+            bib_sort_keys[key] = (3000, 12, 31)
         else:
             dates = defaultdict(lambda: 0, val["issued"])
             bib_sort_keys[key] = (dates["year"], dates["month"], dates["day"])
@@ -44,9 +44,15 @@ def gen_publications(json_file, csl_file, icon_background, icon_default):
     for key, val in bib_sorted.items():
         if "issued" in val and "year" in val["issued"]:
             new_year = val["issued"]["year"]
-            if year != new_year:
-                year = new_year
-                print(f'# {year}')
+        else:
+            if "status" in val:
+                new_year = val["status"]
+            else:
+                new_year = "Unknown"
+                
+        if year != new_year:
+            year = new_year
+            print(f'# {year}')
         
         # generate one-item bibliography for this entry
         citation = Citation([CitationItem(key)])
@@ -86,6 +92,8 @@ def gen_publications(json_file, csl_file, icon_background, icon_default):
                 links["Data"] = val["data"]
             if "post" in val:
                 links["Overview"] = val["post"]
+            if "preprint" in val:
+                links["Preprint"] = val["preprint"]
             
             # generate entry from template
             entry = {"icon": icon, "reference": reference, "links": links}
