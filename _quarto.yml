@@ -20,3 +20,5 @@ format:
     toc: true
 
 editor: visual
+execute:
+  daemon: 10
