@@ -79,13 +79,13 @@ def gen_publications(json_file, csl_file, icon_background, icon_default):
                 links["Link"] = val["link"]
             if "PMID" in val:
                 pmid = val["PMID"]
-                links["PMID"] = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}"
+                links["PubMed"] = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}"
             if "code" in val:
                 links["Code"] = val["code"]
             if "data" in val:
                 links["Data"] = val["data"]
             if "post" in val:
-                links["Post"] = val["post"]
+                links["Overview"] = val["post"]
             
             # generate entry from template
             entry = {"icon": icon, "reference": reference, "links": links}
