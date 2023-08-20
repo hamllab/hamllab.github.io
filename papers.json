@@ -1,5 +1,37 @@
 [
     {
+        "type": "chapter",
+        "title": "Schema, Inference, and Memory",
+        "author": [
+            {
+                "family": "Varga",
+                "given": "Nicole L"
+            },
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Preston",
+                "given": "Alison R"
+            }
+        ],
+        "editor": [
+            {
+                "family": "Kahana",
+                "given": "Michael J"
+            },
+            {
+                "family": "Wagner",
+                "given": "Anthony D"
+            }
+        ],
+        "status": "In press",
+        "container-title": "Oxford Handbook of Human Memory",
+        "id": "6dea594e-16ed-4201-8e94-d51683d47ddc",
+        "preprint": "https://doi.org/10.31234/osf.io/m9adb"
+    },
+    {
         "type": "article-journal",
         "title": "Memory reactivation and suppression modulate integration of the semantic features of related memories in hippocampus",
         "author": [
