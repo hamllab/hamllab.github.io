@@ -53,6 +53,8 @@
         "ISSN": "1047-3211",
         "DOI": "10.1093/cercor/bhad179",
         "PMID": "37264937",
+        "PMCID": "PMC10350843",
+        "icon": "images/2023_Morton.png",
         "code": "https://doi.org/10.5281/zenodo.6967582",
         "post": "https://twitter.com/preston_lab/status/1667218416279666699?s=20",
         "abstract": "Abstract Encoding an event that overlaps with a previous experience may involve reactivating an existing memory and integrating it with new information or suppressing the existing memory to promote formation of a distinct, new representation. We used fMRI during overlapping event encoding to track reactivation and suppression of individual, related memories. We further used a model of semantic knowledge based on Wikipedia to quantify both reactivation of semantic knowledge related to a previous event and formation of integrated memories containing semantic features of both events. Representational similarity analysis revealed that reactivation of semantic knowledge related to a prior event in posterior medial prefrontal cortex (pmPFC) supported memory integration during new learning. Moreover, anterior hippocampus (aHPC) formed integrated representations combining the semantic features of overlapping events. We further found evidence that aHPC integration may be modulated on a trial-by-trial basis by interactions between ventrolateral PFC and anterior mPFC, with suppression of item-specific memory representations in anterior mPFC inhibiting hippocampal integration. These results suggest that PFC-mediated control processes determine the availability of specific relevant memories during new learning, thus impacting hippocampal memory integration.",
@@ -63,8 +65,10 @@
                 ]
             ]
         },
-        "icon": "images/2023_Morton.png",
         "journalAbbreviation": "Cereb. Cortex",
+        "page": "9020-9037",
+        "issue": "14",
+        "volume": "33",
         "id": "bf51ab9b-e6a6-42ff-868c-753a6cbf1ec3"
     },
     {
