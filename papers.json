@@ -318,6 +318,51 @@
     },
     {
         "type": "article-journal",
+        "title": "Lingering representations of stimuli influence recall organization",
+        "author": [
+            {
+                "family": "Chan",
+                "given": "Stephanie C.Y."
+            },
+            {
+                "family": "Applegate",
+                "given": "Marissa C."
+            },
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Polyn",
+                "given": "Sean M."
+            },
+            {
+                "family": "Norman",
+                "given": "Kenneth A."
+            }
+        ],
+        "container-title": "Neuropsychologia",
+        "ISSN": "0028-3932",
+        "DOI": "10.1016/j.neuropsychologia.2017.01.029",
+        "PMID": "28132858",
+        "abstract": "Several prominent theories posit that information about recent experiences lingers in the brain and organizes memories for current experiences, by forming a temporal context that is linked to those memories at encoding. According to these theories, if the thoughts preceding an experience X resemble the thoughts preceding an experience Y, then X and Y should show an elevated probability of being recalled together. We tested this prediction by using multi-voxel pattern analysis (MVPA) of fMRI data to measure neural evidence for lingering processing of preceding stimuli. As predicted, memories encoded with similar lingering thoughts about the category of preceding stimuli were more likely to be recalled together. Our results demonstrate that the “fading embers” of previous stimuli help to organize recall, confirming a key prediction of computational models of episodic memory.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2017",
+                    "03"
+                ]
+            ]
+        },
+        "journalAbbreviation": "Neuropsychologia",
+        "page": "72-82",
+        "volume": "97",
+        "language": "English",
+        "citekey": "Chan:2017eo",
+        "id": "B7B09429-04F1-4CE6-8B4D-DB8C61C74812"
+    },
+    {
+        "type": "article-journal",
         "title": "Beta-band activity represents the recent past during episodic encoding",
         "author": [
             {
@@ -424,46 +469,6 @@
         "language": "English",
         "citekey": "Morton:2016fk",
         "id": "425F27FC-46D1-4752-9535-C4D55DC2BE2F"
-    },
-    {
-        "type": "article-journal",
-        "author": [
-            {
-                "family": "Chan",
-                "given": "Stephanie C.Y."
-            },
-            {
-                "family": "Applegate",
-                "given": "Marissa C."
-            },
-            {
-                "family": "Morton",
-                "given": "Neal W"
-            },
-            {
-                "family": "Polyn",
-                "given": "Sean M."
-            },
-            {
-                "family": "Norman",
-                "given": "Kenneth A."
-            }
-        ],
-        "title": "Lingering representations of stimuli influence recall organization",
-        "abstract": "Several prominent theories posit that information about recent experiences lingers in the brain and organizes memories for current experiences, by forming a temporal context that is linked to those memories at encoding. According to these theories, if the thoughts preceding an experience X resemble the thoughts preceding an experience Y, then X and Y should show an elevated probability of being recalled together. We tested this prediction by using multi-voxel pattern analysis (MVPA) of fMRI data to measure neural evidence for lingering processing of preceding stimuli. As predicted, memories encoded with similar lingering thoughts about the category of preceding stimuli were more likely to be recalled together. Our results demonstrate that the “fading embers” of previous stimuli help to organize recall, confirming a key prediction of computational models of episodic memory.",
-        "issued": {
-            "date-parts": [
-                [
-                    "2015",
-                    "02",
-                    "05"
-                ]
-            ]
-        },
-        "DOI": "10.1016/j.neuropsychologia.2017.01.029",
-        "PMID": "28132858",
-        "citekey": "Chan:2015wc",
-        "id": "E6811A8D-BF09-4672-B21E-9E3B0893D0FD"
     },
     {
         "type": "article-journal",
