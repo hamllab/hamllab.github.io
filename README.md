@@ -13,3 +13,6 @@ To update the publication list, edit `papers.json` to add entries. Entries must 
 -   code: URL of code used in the paper.
 -   data: URL of data used in the paper.
 -   post: URL of a social media post about the paper.
+-   preprint: URL of a preprint of the paper (for Submitted, In revision, and In press articles only).
+
+Articles that have not yet been published can be included by setting the status property to "Submitted", "In revision", or "In press". These articles should only be included if there is a preprint. Indicate a URL to the preprint using the "preprint" property.
