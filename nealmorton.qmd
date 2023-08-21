@@ -1,0 +1,23 @@
+---
+title: "Neal W Morton, PhD"
+about:
+  template: jolla
+  image: images/profile_NealMorton.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/NealWMorton
+    - icon: github
+      text: Github
+      href: https://github.com/mortonne
+---
+
+Neal Morton is the Director of the Human and Machine Learning lab.
+
+## Education
+
+Vanderbilt University | Nashville, TN
+PhD in Psychology | August 2009 - December 2014
+
+University of Pennsylvania | Philadelphia, PA
+B.A. in Cognitive Science | Sept 2003 - May 2007
