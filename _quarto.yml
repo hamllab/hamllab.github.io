@@ -9,8 +9,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - publications.qmd
       - people.qmd
+      - publications.qmd
+      - software.qmd
       - positions.qmd
 
 format:

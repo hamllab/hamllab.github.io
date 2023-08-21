@@ -1,0 +1,156 @@
+[
+  {
+    "publisher": "Zenodo", 
+    "DOI": "10.5281/zenodo.8061964", 
+    "language": "eng", 
+    "title": "Mindstorm: Advanced neuroimaging analysis", 
+    "issued": {
+      "date-parts": [
+        [
+          2023, 
+          6, 
+          20
+        ]
+      ]
+    }, 
+    "abstract": "<p>This version fixes a bug where high-motion censored volumes could have invalid indices. This could cause an error (if a censored index went beyond the timeseries length) or incorrect censoring (if a negative censored index was included).</p>", 
+    "author": [
+      {
+        "family": "Neal W Morton"
+      }
+    ], 
+    "version": "v0.11.1", 
+    "type": "article", 
+    "id": "8061964"
+  },
+  {
+    "publisher": "Zenodo", 
+    "DOI": "10.5281/zenodo.8008219", 
+    "language": "eng", 
+    "title": "Psifr: Analysis and visualization of free recall data", 
+    "issued": {
+      "date-parts": [
+        [
+          2023, 
+          6, 
+          5
+        ]
+      ]
+    }, 
+    "abstract": "<p>This version changes the output of all analysis functions to improve compatibility, reorganizes low-level functions to create a new stats API, and adds a new Contributor Guide to the documentation.</p>\n<ul>\n<li>All analysis functions now return all information in columns instead of indexes. This change was made to allow support for calling Psifr functions from R using Reticulate and the {psifrr} package. It should generally improve compatibility with other table-based analysis packages, which generally do not support MultiIndexes. This change doesn't break any known code, but users taking advantage of the Index in analysis output will have to alter their code to set the Index after running the analysis.</li>\n<li>Low-level functions that were spread across multiple modules are now placed together in a new <code>psifr.stats</code> module. This module provides a unified low-level API for calculating statistics based on list-format data.</li>\n<li>All masker functions are now placed in a new <code>psifr.maskers</code> module.</li>\n<li>Unit tests have been reorganized to group together statistics of the same type (e.g., lag-, category-, or distance-based) to make it easier to share fixtures between tests.</li>\n<li>The build system has been updated to use a <code>pyproject.toml</code> file instead of <code>setup.cfg</code>.</li>\n<li>A new Contributor Guide has been added to the documentation to provide an overview of the organization of the codebase and provide detailed instructions for developing new analyses.</li>\n</ul>", 
+    "author": [
+      {
+        "family": "Neal W Morton"
+      }
+    ], 
+    "version": "v0.9.0", 
+    "type": "article", 
+    "id": "8008219"
+  },
+  {
+    "publisher": "Zenodo", 
+    "DOI": "10.5281/zenodo.6761908", 
+    "language": "eng", 
+    "title": "CyMR: Computational modeling of free recall data", 
+    "issued": {
+      "date-parts": [
+        [
+          2022, 
+          6, 
+          27
+        ]
+      ]
+    }, 
+    "abstract": "<p>This version fixes an issue with how edge cases were handled when calculating log likelihood using <code>cymr.cmr.CMR.likelihood</code>. This could cause problems with data where participants sometimes recalled all items in a list.</p>", 
+    "author": [
+      {
+        "family": "Neal W Morton"
+      }, 
+      {
+        "family": "Sean M Polyn"
+      }
+    ], 
+    "version": "v0.12.1", 
+    "type": "article", 
+    "id": "6761908"
+  },
+  {
+    "publisher": "Zenodo", 
+    "DOI": "10.5281/zenodo.5921956", 
+    "language": "eng", 
+    "title": "fPrep: Preprocessing of fMRI data.", 
+    "issued": {
+      "date-parts": [
+        [
+          2022, 
+          1, 
+          31
+        ]
+      ]
+    }, 
+    "abstract": "<p>This release finishes adding the complete original preprocessing pipeline. It has been tested with the sample dataset to ensure that it finishes successfully. See <code>README.md</code> for the dependency versions used for testing.</p>\n<p>The pipeline performs the following:</p>\n<ul>\n<li>Conversion of images from DICOM to NIfTI format.</li>\n<li>Basic preprocessing of functional data, including motion correction and quality assurance.</li>\n<li>Basic preprocessing of anatomical data, including FreeSurfer.</li>\n<li>Unwarping and registration of functional data.</li>\n</ul>", 
+    "author": [
+      {
+        "family": "Neal W Morton"
+      }
+    ], 
+    "version": "v1.0.0", 
+    "type": "article", 
+    "id": "5921956"
+  },
+  {
+    "publisher": "Zenodo", 
+    "DOI": "10.5281/zenodo.4746649", 
+    "title": "WikiVector: Tools for encoding Wikipedia articles as vectors", 
+    "issued": {
+      "date-parts": [
+        [
+          2021, 
+          5, 
+          10
+        ]
+      ]
+    }, 
+    "abstract": "<p>This version switches to a modern build system and adds a utility for stripping remaining tags that may be left by WikiExtractor for older Wikipedia dumps.</p>\n<ul>\n<li>The build system is defined by the <code>pyproject.toml</code> file.</li>\n<li>Setup options are now mostly set by <code>setup.cfg</code>.</li>\n<li>The <code>wiki_remove_tags</code> script can be used to strip out some common remaining tags from extracted Wikipedia text.</li>\n</ul>", 
+    "author": [
+      {
+        "family": "Neal W Morton"
+      }, 
+      {
+        "family": "Ellen L. Zippi"
+      }, 
+      {
+        "family": "Sharon M. Noh"
+      }, 
+      {
+        "family": "Alison R. Preston"
+      }
+    ], 
+    "version": "v1.2.1", 
+    "type": "article", 
+    "id": "4746649"
+  },
+  {
+    "publisher": "Zenodo", 
+    "DOI": "10.5281/zenodo.4298981", 
+    "title": "PsiReact: Hierarchical Bayesian modeling of response time data", 
+    "issued": {
+      "date-parts": [
+        [
+          2020, 
+          11, 
+          30
+        ]
+      ]
+    }, 
+    "abstract": "<p>This release is for testing Zenodo configuration.</p>", 
+    "author": [
+      {
+        "family": "Neal W Morton"
+      }
+    ], 
+    "version": "v0.2.15", 
+    "type": "article", 
+    "id": "4298981"
+  }
+]

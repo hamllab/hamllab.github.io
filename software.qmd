@@ -1,0 +1,18 @@
+---
+title: "Software"
+jupyter: hamllab
+---
+
+```{python}
+#| echo: false
+#| output: asis
+#| warning: false
+
+from haml.publications import gen_publications
+
+json_file = "software.json"
+csl_file = "cerebral-cortex.csl"
+icon_background = "images/logo_background.png"
+icon_default = "images/logo_icon.png"
+gen_publications(json_file, csl_file, icon_background, icon_default)
+```
