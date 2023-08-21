@@ -672,24 +672,5 @@
         "volume": "50",
         "citekey": "Polyn:2011tr",
         "id": "621B6E59-9225-4249-AE84-686781D14E79"
-    },
-    {
-        "type": "book",
-        "title": "Developing a neurocognitive model of temporal and semantic organization of memory search",
-        "author": [
-            {
-                "family": "Morton",
-                "given": "Neal W"
-            }
-        ],
-        "issued": {
-            "date-parts": [
-                [
-                    "2014"
-                ]
-            ]
-        },
-        "link": "https://etd.library.vanderbilt.edu/etd-09232014-174611",
-        "icon": "images/2014_Morton.png"
     }
 ]
