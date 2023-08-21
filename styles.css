@@ -1,0 +1,49 @@
+/* css styles */
+
+.bib-entry {
+  display: flex;
+  justify-content: flex-start;
+  border: 1px solid;
+  border-radius: 6px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+
+.icon {
+  height: 100%;
+  max-height: 130px;
+  width: auto;
+}
+
+.reference p {
+  margin: 2.5px 7.5px;
+  font-size: .9em;
+  line-height: 1.4;
+}
+
+.reference ul {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  gap: .3em;
+  list-style: none;
+  padding: 0;
+  margin: 7.5px 7.5px;
+}
+
+.reference li a {
+  font-size: .8em;
+  text-decoration: none;
+  color: #222;
+  background-color: #eee;
+  border: 1px solid black;
+  border-radius: 6px;
+  padding: .0 .3em;
+}
+
+.reference li a:hover {
+  color: #6a2875;
+  background-color: #D8A6E0;
+  border-color: #6a2875;
+}
