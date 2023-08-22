@@ -1,5 +1,7 @@
 ---
 title: "People"
+editor: 
+  mode: source
 ---
 
 # Director

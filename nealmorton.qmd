@@ -10,6 +10,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/mortonne
+editor: 
+  mode: source
 ---
 
 Neal Morton is the Director of the Human and Machine Learning lab.

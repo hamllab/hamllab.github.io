@@ -1,5 +1,7 @@
 ---
 title: "Getting involved"
+editor: 
+  mode: source
 ---
 
 The HaML lab is recruiting a graduate student this year, to start in Fall 2024.

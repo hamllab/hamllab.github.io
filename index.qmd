@@ -3,6 +3,8 @@ title: ""
 about:
   template: marquee
   image: images/logo_long.png
+editor: 
+  mode: source
 ---
 
 People are extremely skilled at recognizing patterns in the world and using knowledge about these patterns to quickly adapt to changing circumstances. For example, based on our past experience, we can learn to behave in very different ways at the office, at a party, or on a date. However, the means by which our brains organize and deploy our complex knowledge of the world remain mysterious. Using human neuroimaging data, combined with modern approaches to machine learning, we aim to develop a theory of learning and inference that can explain how we use our experiences to make sense of our world.

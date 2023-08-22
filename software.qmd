@@ -1,6 +1,8 @@
 ---
 title: "Software"
 jupyter: hamllab
+editor: 
+  mode: source
 ---
 
 ```{python}
