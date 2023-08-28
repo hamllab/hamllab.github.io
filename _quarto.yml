@@ -3,6 +3,8 @@ project:
 
 website:
   title: "HaML Lab"
+  google-analytics: "G-BX12VRW5C4"
+  cookie-consent: true
   image: images/logo_icon.png
   navbar:
     logo: images/logo_icon.png
