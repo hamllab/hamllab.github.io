@@ -2,7 +2,19 @@
 
 Staging area for HaML Lab website.
 
-## Maintenance
+## Installation
+
+To make changes to the website from your machine, you must first set up your environment.
+
+-   Install R, RStudio, and a recent version of Python.
+-   Open RStudio and clone this repository.
+-   Create a Python virtual environment under the repository directory using `python -m venv venv`. This only needs to be done once.
+-   Activate the virtual environment using `. venv/bin/activate` and install the Python package using `pip install -e .` This only needs to be rerun if a new module has been added to the `haml` Python package.
+-   Install the Python environment to Jupyter using `python -m ipykernel install --user --name hamllab`. This only needs to be done once.
+
+Now restart RStudio. You should then be able to run `quarto render` from the Terminal tab or use the Render button on the editor window to generate the site. Look over the output carefully. If everything looks good, then run `quarto publish gh-pages`. See the [Quarto documentation](https://quarto.org/docs/publishing/github-pages.html) for details.
+
+## Updating publications
 
 To update the publication list, edit `papers.json` to add entries. Entries must be compatible with CSL. Special fields in each paper entry can be used to support specific features:
 
