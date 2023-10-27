@@ -4,4 +4,26 @@ editor:
   mode: source
 ---
 
-The HaML lab is recruiting a graduate student this year, to start in Fall 2024.
+# Neuroscience PhD Program
+
+The HaML Lab is recruiting a PhD student this year, to start in Fall 2024. If you're interested in cognitive learning, machine learning, and neuroimaging, apply to work with Dr. Neal Morton through UWM's [Neuroscience PhD program](https://uwm.edu/psychology/graduate/phd-program/neuroscience/)! Read on for more specific information about completing a PhD in the lab.
+
+## What does the lab do?
+
+* We study how the brain uses cognitive maps to make sense of the world and guide decision making.
+* Cognitive maps, which organize structured knowledge, are thought to be critical for learning of the concepts and schemas that help us understand our world.
+* We use a combination of model simulations, learning tasks, and neuroimaging to better understand how the brain forms and retrieves information from cognitive maps.
+* Our work has implications for understanding human learning, illuminating causes of cognitive disorders, and improving machine learning methods.
+
+## What kind of research will PhD students be involved in?
+
+The lab has different focus areas examining behavior, neuroimaging measures, and theoretical work including computational modeling. PhD students can start in any area and learn additional skills from there, and not everyone has to be involved in every area.
+
+* Behavioral studies examine learning of relationships that are thought to be organized within cognitive maps that help guide flexible reasoning behavior. 
+  * Example paper: [Representations of Temporal Community Structure in Hippocampus and Precuneus Predict Inductive Reasoning Decisions.](https://pubmed.ncbi.nlm.nih.gov/35579986)
+  
+* Neuroimaging measures are used to examine neural representations of cognitive maps and how these representations relate to behavior. 
+  * Example paper: [Representations of common event structure in medial temporal lobe and frontoparietal cortex support efficient inference.](https://pubmed.ncbi.nlm.nih.gov/33229532)
+  
+* Theoretical and modeling work examines the implications of cognitive map representations within a wide range of behaviors, including memory function and decision making. Longer-term theoretical work will examine potential applications to memory consolidation, dreaming, and PTSD. 
+  * Example paper: [Concept formation as a computational cognitive process.](https://pubmed.ncbi.nlm.nih.gov/33628870)
