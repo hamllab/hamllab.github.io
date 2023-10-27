@@ -1,0 +1,34 @@
+---
+title: "The Zen of Research"
+description: "Principles of doing rigorous and impactful research and having fun doing it."
+author: "Neal Morton"
+date: "2023-10-25"
+---
+
+The Python programming language has high-level advice to people developing Python code, to try to explain what good code looks like. The following list is my attempt to make a similar set of principles for what good research looks like. They reflect general principles rather than hard-and-fast rules.
+
+-   Get comfortable with being wrong and work hard to become less wrong.
+-   Testing multiple theories is better than attempting to confirm a single theory.
+-   Practical is better than purely theoretical.
+-   Statistical power is key.
+-   Replicate empirical results before relying on them to constrain theory.
+-   Communicate with all stakeholders: advisors, colleagues, funding agencies, and the public.
+-   Simply publishing a PDF on a website is unlikely to have much impact by itself.
+-   When communicating research, speak as plainly as possible.
+-   Use a range of methods to communicate research for different levels of expertise and interest.
+-   Meet people where they are and explain why they should care about your research.
+-   Read widely. Learn about things that aren't immediately relevant to your research.
+-   Document all critical aspects of a project in writing at the outset and keep documentation updated throughout.
+-   Keep a notebook to log daily work.
+-   Readability counts, in code, figures, and research reports.
+-   Research ethics come first.
+-   Work with the larger scientific community to create greater impact.
+-   Make your work publicly available. Publish code, data, and detailed documentation.
+-   Code is guilty until proven innocent.
+-   Steal methods and ideas from the best. Be generous when giving credit.
+-   Open-source tools are better than closed-source tools.
+-   Develop skills and tools that serve as force multipliers.
+-   Work together, but also work to find your own voice.
+-   Bring your whole self to work. If the work requires compromising who you are, it's not worth it.
+-   Take time off. It's your right as a human being and will lead to better and more creative work anyway.
+-   Build the career you want.

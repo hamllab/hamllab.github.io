@@ -1,0 +1,9 @@
+---
+title: "Human and Machine Learning Lab"
+description: "Announcing a new lab focused on understanding mechanisms of human learning using machine learning simulations and neuroimaging."
+author: "Neal Morton"
+date: "2023-10-15"
+image: "logo_v1d_square.png"
+---
+
+This is a post about the lab.
