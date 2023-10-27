@@ -2,11 +2,26 @@
 title: ""
 about:
   template: marquee
-  image: images/logo_long.png
 editor: 
   mode: source
+listing:
+  contents: news
+toc: false
 ---
 
-People are extremely skilled at recognizing patterns in the world and using knowledge about these patterns to quickly adapt to changing circumstances. For example, based on our past experience, we can learn to behave in very different ways at the office, at a party, or on a date. However, the means by which our brains organize and deploy our complex knowledge of the world remain mysterious. Using human neuroimaging data, combined with modern approaches to machine learning, we aim to develop a theory of learning and inference that can explain how we use our experiences to make sense of our world.
+<div class="header">
+<img src="images/logo_long.png">
+</div>
 
-The HaML lab is starting in Fall 2023! We will be recruiting a graduate student to start in Fall 2024.
+The HaML Lab is starting in Fall 2023 in the <a href="https://uwm.edu/psychology/">Psychology Department</a> at the <a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a>. We will be recruiting a graduate student to start in Fall 2024.
+
+<div>
+<ul class="overview">
+<li><img src="images/home_icon1.png" alt="We study how the brain uses cognitive maps to make sense of the world and guide decision making."></li>
+<li><img src="images/home_icon2.png" alt="Cognitive maps, which organize structured knowledge, are thought to be critical for learning of the concepts and schemas that help us understand our world."></li>
+<li><img src="images/home_icon3.png" alt="We use a combination of model simulations, learning task, and neuroimaging to study how the brain forms and retrieves information from cognitive maps."></li>
+<li><img src="images/home_icon4.png" alt="Our work has implications for understanding human learning, illuminating causes of cognitive disorders, and improving machine learning methods."></li>
+</ul>
+</div>
+
+# News
