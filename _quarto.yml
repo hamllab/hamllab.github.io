@@ -17,6 +17,26 @@ website:
       - publications.qmd
       - software.qmd
       - positions.qmd
+    tools:
+      - icon: github
+        href: "https://github.com/hamllab"
+        text: HaML Lab GitHub
+  page-footer:
+    left: |
+      [![](images/UWM_Logo-Preferred_Black-Goldflag.jpg){fig-alt="UWM" width=200px}](https://uwm.edu)
+    center: |
+      __Contact Us__ <br>
+      <br>
+      Human and Machine Learning Lab <br>
+      Department of Psychology <br>
+      University of Wisconsin-Milwaukee <br>
+      2441 E Hartford Ave <br>
+      Milwaukee, WI 53211
+    right: |
+      __Affiliations__ <br>
+      <br>
+      [College of Letters & Science](https://uwm.edu/letters-science/) <br>
+      [Psychology Department](https://uwm.edu/psychology/) <br>
 
 format:
   html:
