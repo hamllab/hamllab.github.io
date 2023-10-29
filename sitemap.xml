@@ -2,26 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hamllab.github.io/nealmorton.html</loc>
-    <lastmod>2023-08-28T22:08:52.171Z</lastmod>
+    <lastmod>2023-10-29T19:49:33.444Z</lastmod>
   </url>
   <url>
     <loc>https://hamllab.github.io/software.html</loc>
-    <lastmod>2023-08-28T22:08:51.510Z</lastmod>
+    <lastmod>2023-10-29T19:49:32.937Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hamllab.github.io/news/phd/index.html</loc>
+    <lastmod>2023-10-29T19:49:30.897Z</lastmod>
   </url>
   <url>
     <loc>https://hamllab.github.io/index.html</loc>
-    <lastmod>2023-08-28T22:08:40.848Z</lastmod>
+    <lastmod>2023-10-29T19:49:26.850Z</lastmod>
   </url>
   <url>
     <loc>https://hamllab.github.io/positions.html</loc>
-    <lastmod>2023-08-28T22:08:40.431Z</lastmod>
+    <lastmod>2023-10-29T19:49:26.524Z</lastmod>
   </url>
   <url>
     <loc>https://hamllab.github.io/publications.html</loc>
-    <lastmod>2023-08-28T22:08:48.347Z</lastmod>
+    <lastmod>2023-10-29T19:49:30.643Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hamllab.github.io/news/zen/index.html</loc>
+    <lastmod>2023-10-29T19:49:31.211Z</lastmod>
   </url>
   <url>
     <loc>https://hamllab.github.io/people.html</loc>
-    <lastmod>2023-08-28T22:08:51.837Z</lastmod>
+    <lastmod>2023-10-29T19:49:33.198Z</lastmod>
   </url>
 </urlset>

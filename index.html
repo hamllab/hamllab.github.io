@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -24,12 +24,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/logo_icon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/cookie-consent/cookie-consent.js"></script>
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -60,6 +62,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-BX12VRW5C4"></script>
 
 <script type="text/plain" cookie-consent="tracking">
@@ -86,6 +117,8 @@ cookieconsent.run({
 </script> 
   
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -132,6 +165,7 @@ cookieconsent.run({
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
+    <a href="https://github.com/hamllab" rel="" title="HaML Lab GitHub" class="quarto-navigation-tool px-1" aria-label="HaML Lab GitHub"><i class="bi bi-github"></i></a>
 </div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -145,15 +179,95 @@ cookieconsent.run({
 <!-- main -->
 <div class="quarto-about-marquee">
   <div class="about-image-container">
-    <img src="images/logo_long.png" class="about-image " style="width: 100%;">
   </div>
   <div class="about-contents">
      <main class="content" id="quarto-document-content">
-<p>People are extremely skilled at recognizing patterns in the world and using knowledge about these patterns to quickly adapt to changing circumstances. For example, based on our past experience, we can learn to behave in very different ways at the office, at a party, or on a date. However, the means by which our brains organize and deploy our complex knowledge of the world remain mysterious. Using human neuroimaging data, combined with modern approaches to machine learning, we aim to develop a theory of learning and inference that can explain how we use our experiences to make sense of our world.</p>
-<p>The HaML lab is starting in Fall 2023! We will be recruiting a graduate student to start in Fall 2024.</p>
+<div class="header">
+<p><img src="images/logo_long.png"></p>
+</div>
+<p>The HaML Lab is starting in Fall 2023 in the <a href="https://uwm.edu/psychology/">Psychology Department</a> at the <a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a>.</p>
+<div>
+<ul class="overview">
+<li>
+<img src="images/home_icon1.png" alt="We study how the brain uses cognitive maps to make sense of the world and guide decision making.">
+</li>
+<li>
+<img src="images/home_icon2.png" alt="Cognitive maps, which organize structured knowledge, are thought to be critical for learning of the concepts and schemas that help us understand our world.">
+</li>
+<li>
+<img src="images/home_icon3.png" alt="We use a combination of model simulations, learning task, and neuroimaging to study how the brain forms and retrieves information from cognitive maps.">
+</li>
+<li>
+<img src="images/home_icon4.png" alt="Our work has implications for understanding human learning, illuminating causes of cognitive disorders, and improving machine learning methods.">
+</li>
+</ul>
+</div>
+<section id="news" class="level1">
+<h1>News</h1>
 
 
-</main> 
+</section>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1698642000000" data-listing-file-modified-sort="1698602202027" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./news/phd/index.html"> <img src="./news/phd/mke_brain.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./news/phd/index.html">
+<h3 class="no-anchor listing-title">
+Recruiting PhD students for Fall 2024
+</h3>
+<div class="listing-subtitle">
+</div>
+<div class="listing-description">
+<p>Now taking applications for Neuroscience PhD students!</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./news/phd/index.html">
+<div class="listing-date">
+Oct 30, 2023
+</div>
+<div class="listing-author">
+Neal Morton
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1698555600000" data-listing-file-modified-sort="1698602870969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="./news/zen/index.html"> <img src="./news/zen/haml_zen.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./news/zen/index.html">
+<h3 class="no-anchor listing-title">
+The Zen of Research
+</h3>
+<div class="listing-subtitle">
+</div>
+<div class="listing-description">
+<p>Principles of doing rigorous and impactful research and having fun doing it.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./news/zen/index.html">
+<div class="listing-date">
+Oct 29, 2023
+</div>
+<div class="listing-author">
+Neal Morton
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> 
   </div>
 </div>
  <!-- /main -->
@@ -386,13 +500,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
+    <div class="nav-footer-left"><a href="https://uwm.edu"><img src="images/UWM_Logo-Preferred_Black-Goldflag.jpg" class="img-fluid" alt="UWM" width="200"></a></div>   
+    <div class="nav-footer-center"><strong>Contact Us</strong> <br> <br> Human and Machine Learning Lab <br> Department of Psychology <br> University of Wisconsin-Milwaukee <br> 2441 E Hartford Ave <br> Milwaukee, WI 53211<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right"><strong>Affiliations</strong> <br> <br> <a href="https://uwm.edu/letters-science/">College of Letters &amp; Science</a> <br> <a href="https://uwm.edu/psychology/">Psychology Department</a> <br></div>
   </div>
 </footer>
 
