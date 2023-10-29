@@ -9,6 +9,10 @@ listing:
 toc: false
 ---
 
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="pragma" content="no-cache">
+
 <div class="header">
 <img src="images/logo_long.png">
 </div>
