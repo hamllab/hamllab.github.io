@@ -4,12 +4,18 @@ about:
   template: jolla
   image: images/profile_NealMorton.jpg
   links:
+    - icon: share
+      text: Bluesky
+      href: https://bsky.app/profile/nealmorton.bsky.social
     - icon: twitter
       text: twitter
       href: https://twitter.com/NealWMorton
     - icon: github
       text: Github
       href: https://github.com/mortonne
+    - icon: mailbox
+      text: email
+      href: mailto:nmorton@uwm.edu
 editor: 
   mode: source
 ---
@@ -18,8 +24,24 @@ Neal Morton is the Director of the Human and Machine Learning lab.
 
 ## Education
 
-Vanderbilt University | Nashville, TN
+### Vanderbilt University
+
 PhD in Psychology | August 2009 - December 2014
 
-University of Pennsylvania | Philadelphia, PA
+### University of Pennsylvania
+
 B.A. in Cognitive Science | Sept 2003 - May 2007
+
+## Positions
+
+### University of Wisconsin-Milwaukee
+
+Assistant Professor | August 2023 - present
+
+### The University of Texas at Austin
+
+Research Associate | December 2014 - July 2023
+
+### University of Pennsylvania
+
+Research Coordinator | June 2007 - July 2009
