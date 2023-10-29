@@ -6,8 +6,10 @@ website:
   google-analytics: "G-BX12VRW5C4"
   cookie-consent: true
   image: images/logo_icon.png
+  favicon: images/logo_icon.png
   navbar:
     logo: images/logo_icon.png
+    pinned: true
     left:
       - href: index.qmd
         text: Home
