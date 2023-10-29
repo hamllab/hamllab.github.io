@@ -5,7 +5,7 @@ author: "Neal Morton"
 date: "2023-10-25"
 ---
 
-The Python programming language has high-level advice to people developing Python code, to try to explain what good code looks like. The following list is my attempt to make a similar set of principles for what good research looks like. They reflect general principles rather than hard-and-fast rules.
+The Python programming language has high-level advice to people developing Python code, called [the Zen of Python](https://peps.python.org/pep-0020/), to try to explain what good code looks like. The following list is my attempt to make a similar set of principles for what good research looks like. They reflect general principles rather than hard-and-fast rules.
 
 -   Get comfortable with being wrong and work hard to become less wrong.
 -   Testing multiple theories is better than attempting to confirm a single theory.
