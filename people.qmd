@@ -6,7 +6,7 @@ editor:
 
 # Director
 
-* [Neal Morton](nealmorton.html)
+* [Neal Morton](people/nealmorton.html)
 
 # Graduate students
 
