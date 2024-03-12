@@ -4,70 +4,37 @@ editor:
   mode: source
 ---
 
-# Neuroscience PhD Program
+# Research Coordinator Position
 
-The Human and Machine Learning (HaML) Lab is recruiting a PhD student this year, to start in Fall 2024. If you're interested in human learning, machine learning, and neuroimaging, apply to work with Dr. Neal Morton through UWM's [Neuroscience PhD program](https://uwm.edu/psychology/graduate/phd-program/neuroscience/)! Read on for more specific information about completing a PhD in the [HaML Lab](https://hamllab.org).
+## Position Description
 
-## What does the lab do?
+The [Human and Machine Learning (HaML) Lab](https://hamllab.org) in the Department of Psychology at the University of Wisconsin–Milwaukee seeks a full-time Research Intern to begin around May 2024. Lab studies will examine how human memory supports optimal decision making in both familiar contexts and new situations, using behavioral and neuroimaging data and model simulations. Responsibilities include conducting behavioral and neuroimaging studies, supervising and training undergraduate research assistants, and fostering connections with the broader Milwaukee community. This position is ideal for those interested in applying to graduate school and/or a career in experimental psychology or neuroscience, as it will provide hands-on training, a vibrant and diverse intellectual community within UWM's Department of Psychology, and the opportunity to present at conferences and co-author publications.
+ 
+The position has a duration of 1 year, with potential for a 1-year extension. The successful candidate will work primarily on site at UWM's campus and at the Center for Imaging Research at the Medical College of Wisconsin, where scanning studies will be conducted. Individuals from all backgrounds are welcome to apply, and those from backgrounds unrepresented in science are especially encouraged to do so.
+ 
+The HaML Lab studies how humans acquire and apply knowledge to make informed decisions in a complex and uncertain world. We aim to develop a comprehensive theory of human learning that takes into account memory limitations, motivation, and uncertainty, while explaining how memories are formed and transformed through memory consolidation. We use a combination of behavioral methods from cognitive psychology and neural measures obtained using neuroimaging, which are used to inform development of neurally informed machine learning models that mimic human behavior and brain activity. We ultimately aim to have an impact beyond the lab by informing understanding of memory problems and memory-related disorders such as PTSD. The HaML Lab, which started in Fall 2023, is directed by [Neal Morton, PhD](people/nealmorton.html).
 
-* We study how the brain uses cognitive maps to make sense of the world and guide decision making.
-* Cognitive maps, which organize structured knowledge, are thought to be critical for learning of the concepts and schemas that help us understand our world.
-* We use a combination of model simulations, learning tasks, and neuroimaging to better understand how the brain forms and retrieves information from cognitive maps.
-* Our work has implications for understanding human learning, illuminating causes of cognitive disorders, and improving machine learning methods.
+## Position Responsibilities
 
-You can read [previous publications](/publications.html) from Dr. Morton to get a better sense of the lab's research. 
+*	Assisting with participant recruitment and screening
+*	Assisting with literature reviews, study design, and stimulus construction
+*	Assisting with data collection from adult participants (ages 18–35), including behavioral and neuroimaging studies
+*	Overseeing secure data management and assisting with behavioral and neuroimaging data analysis
+*	Collaborating on conference presentations and manuscripts
+*	Assisting with managing institutional review board (IRB) protocols
+*	Assisting with day-to-day lab tasks, including ordering and maintaining supplies, communicating with other labs and community entities, and helping with website management
 
-## What kind of research will PhD students be involved in?
+## Minimum Qualifications
 
-The lab has different focus areas examining behavior, neuroimaging measures, and theoretical work including computational modeling. PhD students can start in any area and learn additional skills from there, and not everyone necessarily has to be involved in every area.
+*	Bachelor's degree in psychology, neuroscience, or related field
+*	At least one year related research experience
+*	Knowledge of research concepts, practices, and procedures
+*	Strong interpersonal, organizational, and communication skills
 
-* __Behavioral studies__ examine learning of relationships that are thought to be organized within cognitive maps that help guide flexible reasoning behavior. 
-  * Example paper (includes neuroimaging, but behavioral tasks are an important component): [Representations of Temporal Community Structure in Hippocampus and Precuneus Predict Inductive Reasoning Decisions.](https://pubmed.ncbi.nlm.nih.gov/35579986)
-  
-* __Neuroimaging studies__ are used to examine neural representations of cognitive maps and how these representations relate to behavior. 
-  * Example paper: [Representations of common event structure in medial temporal lobe and frontoparietal cortex support efficient inference.](https://pubmed.ncbi.nlm.nih.gov/33229532)
-  
-* __Theoretical and modeling work__ examines the implications of cognitive map representations within a wide range of behaviors, including memory retrieval, reasoning, and decision making. Longer-term theoretical work will examine potential implications for memory consolidation, dreaming, and PTSD. 
-  * Example paper: [Concept formation as a computational cognitive process.](https://pubmed.ncbi.nlm.nih.gov/33628870)
+## Preferred Qualifications
 
-PhD research will generally start by implementing a key study from the lab's planned research program. The student will receive one-on-one guidance in collecting and analyzing data, presenting on the results at a national conference, and publishing in a peer-reviewed journal. After the first major project, the student will work with Dr. Morton to determine a more independent project that will fit with their interests and the lab's research program, while continuing to receive training in critical research skills.
+*	Knowledge of experimental methods used to study human learning and memory
+*	Experience with study design, stimulus construction, and/or data management
+*	Programming and data analysis experience (e.g., Python, R, MATLAB)
 
-## What experience is helpful as preparation for prospective students?
-
-Research is multifaceted, and all students will receive training in various aspects of research. However, some experience is very helpful before starting a PhD, to start developing research skills and help a prospective student determine whether obtaining a PhD in neuroscience is right for them.
-
-Some experience and skills that are helpful to have:
-
-* Relevant coursework in psychology, neuroscience, math, and statistics
-* Experience in conducting psychological studies with humans
-* Programming experience with languages such as Python or R
-* Knowledge of or experience with neuroimaging
-
-Most important, however, is to have a strong sense of curiosity and the focus and determination needed to answer difficult questions.
-
-## What kind of training do PhD students receive?
-
-In addition to the [graduate courses](https://uwm.edu/psychology/graduate/curriculum-and-courses/) offered through the Psychology Department, students will receive training through their work in the HaML Lab.
-
-The specific training partially depends on the individual students and their interests; for example, some students may receive significant training and experience in modeling methods, while others may focus more on neuroimaging. However, there are core research skills that all students will receive training on:
-
-* Conducting literature searches
-* Designing rigorous tasks for studying human behavior
-* Implementing studies using presentation software
-* Analyzing behavioral and neuroimaging data
-* Code development best practices and software publishing
-* Data visualization best practices
-* Writing and giving presentations
-* Scientific writing
-* Grant writing
-* Publicizing results to broad audiences
-
-Dr. Morton believes strongly in providing formal training in all areas of research. He will provide comprehensive documentation and one-on-one training in each of these topics, to ensure that PhD students have the support they need to become capable independent researchers.
-
-## How does the PhD program prepare students for careers in research?
-
-In addition to having frequent meetings about research, students will also regularly meet with Dr. Morton to discuss their larger career goals and the skills, experience, and connections needed to meet those goals. Dr. Morton supports students seeking different career paths and can make use of his connections with academics in many universities and industry connections in software development, data science, machine learning, and bioengineering to help students explore different research-related and technical career paths.
-
-## How can I apply?
-
-See the UWM Psychology PHD program website for [instructions on applying](https://uwm.edu/psychology/graduate/application/). Application materials are due on December 1. If you're planning to apply, it's a good idea to contact [Dr. Morton](/nealmorton.html) first to introduce yourself and say a bit about why you want to work in the lab. It is also helpful to attach a [curriculum vitae](https://www.prospectivedoctor.com/how-to-write-an-undergraduate-cv/) if you have one. Dr. Morton can answer any questions you have about the program and research in the lab.
+## How to Apply
