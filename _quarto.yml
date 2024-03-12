@@ -11,8 +11,6 @@ website:
     logo: images/logo_icon.png
     pinned: true
     left:
-      - href: index.qmd
-        text: Home
       - people.qmd
       - publications.qmd
       - software.qmd
