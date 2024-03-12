@@ -22,7 +22,7 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       - name: Render Quarto Project
-        run: . venv/bin/activate && quarto render html
+        run: . venv/bin/activate && quarto render . --to html
       - name: Deploy Site
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
