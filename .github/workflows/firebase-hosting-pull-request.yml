@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install Dependencies
-        run: ./install.sh
+        run: bash install.sh
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       - name: Render Quarto Project
