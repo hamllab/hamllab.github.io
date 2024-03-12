@@ -17,7 +17,7 @@ toc: false
 <img src="images/logo_long.png">
 </div>
 
-The HaML Lab is starting in Fall 2023 in the <a href="https://uwm.edu/psychology/">Psychology Department</a> at the <a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a>.
+The HaML Lab started in Fall 2023 in the <a href="https://uwm.edu/psychology/">Psychology Department</a> at the <a href="https://uwm.edu/">University of Wisconsin-Milwaukee</a>.
 
 <div>
 <ul class="overview">
