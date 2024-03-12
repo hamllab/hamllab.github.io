@@ -19,14 +19,10 @@ jobs:
           python-version: '3.11'
       - name: Install Dependencies
         run: bash install.sh
-      - name: Print jupyter
-        run: . venv/bin/activate && jupyter kernelspec list
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       - name: Render Quarto Project
-        uses: quarto-dev/quarto-actions/render@v2
-        with:
-          to: html
+        run: . venv/bin/activate && quarto render html
       - name: Deploy Site
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
