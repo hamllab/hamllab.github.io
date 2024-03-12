@@ -20,7 +20,7 @@ jobs:
       - name: Install Dependencies
         run: bash install.sh
       - name: Print jupyter
-        run: jupyter kernelspec list
+        run: . venv/bin/activate && jupyter kernelspec list
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       - name: Render Quarto Project
