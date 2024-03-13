@@ -14,6 +14,7 @@ toc: false
 <meta http-equiv="pragma" content="no-cache">
 
 <div class="header">
+<img src="images/UWM_Logo-Preferred_Black-GoldFlag.jpg>
 <img src="images/logo_long.png">
 </div>
 
