@@ -1,0 +1,11 @@
+---
+title: "Recruiting a Research Coordinator"
+description: "Now taking applications for a Research Coordinator!"
+author: "Neal Morton"
+date: "2024-03-18"
+image: "mke_brain.png"
+editor: 
+  mode: source
+---
+
+The [HaML Lab](https://hamllab.org) at the [University of Wisconsin-Milwaukee](https://uwm.edu/) is now taking applications for a full-time Research Coordinator. See the [Getting involved](/positions.html) page for details!
