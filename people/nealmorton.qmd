@@ -1,7 +1,7 @@
 ---
 title: "Neal W Morton, PhD"
 about:
-  template: jolla
+  template: trestles
   image: images/profile_NealMorton.jpg
   links:
     - icon: share
