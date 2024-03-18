@@ -6,6 +6,8 @@ editor:
   mode: source
 listing:
   contents: news
+  sort: "date desc"
+  type: grid
 toc: false
 ---
 

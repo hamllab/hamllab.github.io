@@ -69,7 +69,7 @@
         "page": "9020-9037",
         "issue": "14",
         "volume": "33",
-        "id": "bf51ab9b-e6a6-42ff-868c-753a6cbf1ec3"
+        "id": "2023_Morton"
     },
     {
         "type": "article-journal",
@@ -128,7 +128,7 @@
         "page": "1736-1760",
         "issue": "10",
         "volume": "34",
-        "id": "99c19351-6ecb-43d9-bb28-12db90e6c7a0"
+        "id": "2022_PudhiyidathMorton"
     },
     {
         "type": "article-journal",
@@ -170,7 +170,7 @@
         "page": "2762-2779",
         "issue": "12",
         "volume": "41",
-        "id": "18c46088-c7c1-4053-8ab1-c45057b67414"
+        "id": "2021_MortonZippi"
     },
     {
         "type": "article-journal",
@@ -216,7 +216,7 @@
         "page": "726-738",
         "issue": "4",
         "volume": "41",
-        "id": "4b933050-882e-45a2-ba40-dd10a64cc9aa"
+        "id": "2021_Molitor"
     },
     {
         "type": "article-journal",
@@ -248,7 +248,7 @@
         "journalAbbreviation": "Curr Opin Behav Sci",
         "page": "83-89",
         "volume": "38",
-        "id": "1365515e-5438-483e-9321-dc236f69ad53"
+        "id": "2021_Morton"
     },
     {
         "type": "article-journal",
@@ -286,7 +286,7 @@
         "page": "201912338",
         "issue": "47",
         "volume": "117",
-        "id": "78c6dc0d-c959-4a56-a502-166e75dcb2dd"
+        "id": "2020_Morton2"
     },
     {
         "type": "article-journal",
@@ -313,7 +313,7 @@
         "page": "2669",
         "issue": "54",
         "volume": "5",
-        "id": "bb76f5d1-0073-4e8b-bdeb-f7d881371f95"
+        "id": "2020_Morton"
     },
     {
         "type": "article-journal",
@@ -352,9 +352,7 @@
         "page": "161 168",
         "volume": "17",
         "language": "English",
-        "note": "Hello world.",
-        "citekey": "Morton:2017ig",
-        "id": "9940742B-8FD6-41D0-B11F-0AB247FDA5AF"
+        "id": "2017_MortonSherrill"
     },
     {
         "type": "article-journal",
@@ -399,8 +397,7 @@
         "page": "72-82",
         "volume": "97",
         "language": "English",
-        "citekey": "Chan:2017eo",
-        "id": "B7B09429-04F1-4CE6-8B4D-DB8C61C74812"
+        "id": "2017_Chan"
     },
     {
         "type": "article-journal",
@@ -435,8 +432,7 @@
         "page": "692 702",
         "volume": "147",
         "language": "English",
-        "citekey": "Morton:2017hg",
-        "id": "244c66b7-0c0e-499c-a40b-d8356af7c654"
+        "id": "2017_Morton"
     },
     {
         "type": "article-journal",
@@ -476,8 +472,7 @@
         "issue": "7",
         "volume": "35",
         "language": "English",
-        "citekey": "Kragel:2015ck",
-        "id": "9C99D3DF-9F15-41EB-AD7F-0E9D33E2BCBF"
+        "id": "2015_Kragel"
     },
     {
         "type": "article-journal",
@@ -511,8 +506,7 @@
         "page": "119 140",
         "volume": "86",
         "language": "English",
-        "citekey": "Morton:2016fk",
-        "id": "425F27FC-46D1-4752-9535-C4D55DC2BE2F"
+        "id": "2016_Morton"
     },
     {
         "type": "article-journal",
@@ -563,8 +557,7 @@
         "issue": "4",
         "volume": "20",
         "language": "English",
-        "citekey": "Polyn:2014te",
-        "id": "AB3A7FFD-444C-4CFF-98C2-278E3B2FBD71"
+        "id": "2015_Polyn"
     },
     {
         "type": "article-journal",
@@ -623,8 +616,7 @@
         "issue": "10",
         "volume": "23",
         "language": "English",
-        "citekey": "MortEtal13",
-        "id": "0B5FA941-1E97-4396-A06D-8C9AE5A79CF5"
+        "id": "2013_Morton"
     },
     {
         "type": "article-journal",
@@ -670,7 +662,6 @@
         "page": "447-457",
         "issue": "4",
         "volume": "50",
-        "citekey": "Polyn:2011tr",
-        "id": "621B6E59-9225-4249-AE84-686781D14E79"
+        "id": "2012_Polyn"
     }
 ]
