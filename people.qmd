@@ -1,12 +1,17 @@
 ---
 title: "People"
+format:
+  html:
+    css: people/people.css
 editor: 
   mode: source
 ---
 
 # Director
 
-* [Neal Morton](people/nealmorton.html)
+::: {.picture-list}
+* [![Neal Morton](people/images/profile_NealMorton.jpg)](people/nealmorton.html) *Neal Morton*
+:::
 
 # Current collaborators
 

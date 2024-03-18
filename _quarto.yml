@@ -22,7 +22,7 @@ website:
         text: HaML Lab GitHub
   page-footer:
     left: |
-      [![](images/UWM_Logo-Preferred_Black-Goldflag.jpg){fig-alt="UWM" width=200px}](https://uwm.edu)
+      [![](https://raw.githubusercontent.com/hamllab/hamllab.github.io/main/images/UWM_Logo-Preferred_Black-GoldFlag.jpg){fig-alt="UWM" width=200px}](https://uwm.edu)
     center: |
       __Contact Us__ <br>
       <br>

@@ -1,0 +1,29 @@
+.picture-list ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.picture-list li {
+  text-decoration: none;
+  list-style-type: none;
+  display: block;
+  vertical-align: top;
+  text-align: center;
+}
+
+.picture-list li em {
+  display: block;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.picture-list img {
+  height: 125px;
+  width: auto;
+  padding: 0px 10px;
+}
