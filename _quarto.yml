@@ -12,6 +12,7 @@ website:
     pinned: true
     left:
       - people.qmd
+      - research.qmd
       - publications.qmd
       - software.qmd
       - positions.qmd

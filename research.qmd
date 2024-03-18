@@ -1,0 +1,41 @@
+---
+title: "Research"
+editor: 
+  mode: source
+bibliography: ref/papers.json
+reference-location: margin
+citation-location: margin
+csl: ref/cerebral-cortex.csl
+---
+
+Below are summaries and visual abstracts of some of the lab's recent research. See the full papers for details. A full list of publications, with links to free access on PubMed for most papers, is available on the [publications](publications.html) page.
+
+### Knowledge of related events becomes integrated during learning and predicts reasoning performance
+
+A Wikipedia-based model of semantic relatedness predicted activity during learning that is related to integration of overlapping events [@2023_Morton].
+
+![](ref/abstracts/2023_Morton.png)
+
+### Statistical learning in hippocampus may help discover implicit structure in the world
+
+Hippocampus and precuneus activity patterns reflect an implicit community structure that relates objects and correlate with inference based on community [@2022_PudhiyidathMorton].
+
+![](ref/abstracts/2022_PudhiyidathMorton.png)
+
+### Cortical networks and hippocampus represent real-world knowledge of famous people and places
+
+Using a model of semantic similarity based on Wikipedia articles, we found that overlapping but distinct networks reflect knowledge of people and places [@2021_MortonZippi]
+
+![](ref/abstracts/2021_MortonZippi.png)
+
+### Memory reactivation simultaneously promotes formation of integrated and differentiated codes in hippocampus
+
+Reactivation of related memories during learning promotes formation of integrated codes in CA1 and differentiated codes in CA2,3/DG, which predict inference [@2021_Molitor].
+
+![](ref/abstracts/2021_Molitor.png)
+
+### Cognitive maps organize related experiences in terms of shared structure
+
+When participants learn a series of similar relationships, hippocampal and cortical activation patterns realign to reflect the similar roles of different objects [@2020_Morton2].
+
+![](ref/abstracts/2020_Morton2.png)
