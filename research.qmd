@@ -25,7 +25,7 @@ Hippocampus and precuneus activity patterns reflect an implicit community struct
 
 ### Cortical networks and hippocampus represent real-world knowledge of famous people and places
 
-Using a model of semantic similarity based on Wikipedia articles, we found that overlapping but distinct networks reflect knowledge of people and places [@2021_MortonZippi]
+Using a model of semantic similarity based on Wikipedia articles, we found that overlapping but distinct networks reflect knowledge of people and places [@2021_MortonZippi].
 
 ![](ref/abstracts/2021_MortonZippi.png)
 
