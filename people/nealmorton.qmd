@@ -15,7 +15,7 @@ about:
       href: https://scholar.google.com/citations?user=MtKrq88AAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/neal-morton-b90884114/
+      href: https://linkedin.com/in/neal-morton-b90884114/
     - icon: github
       text: Github
       href: https://github.com/mortonne
