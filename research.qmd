@@ -6,6 +6,7 @@ bibliography: ref/papers.json
 reference-location: margin
 citation-location: margin
 csl: ref/cerebral-cortex.csl
+css: research.css
 ---
 
 Below are summaries and visual abstracts of some of the lab's recent research. See the full papers for details. A full list of publications, with links to free access on PubMed for most papers, is available on the [publications](publications.html) page.
