@@ -6,6 +6,7 @@ bibliography: ref/papers.json
 reference-location: margin
 citation-location: margin
 csl: ref/cerebral-cortex.csl
+css: research.css
 ---
 
 Below are summaries and visual abstracts of some of the lab's recent research. See the full papers for details. A full list of publications, with links to free access on PubMed for most papers, is available on the [publications](publications.html) page.
@@ -24,7 +25,7 @@ Hippocampus and precuneus activity patterns reflect an implicit community struct
 
 ### Cortical networks and hippocampus represent real-world knowledge of famous people and places
 
-Using a model of semantic similarity based on Wikipedia articles, we found that overlapping but distinct networks reflect knowledge of people and places [@2021_MortonZippi]
+Using a model of semantic similarity based on Wikipedia articles, we found that overlapping but distinct networks reflect knowledge of people and places [@2021_MortonZippi].
 
 ![](ref/abstracts/2021_MortonZippi.png)
 
