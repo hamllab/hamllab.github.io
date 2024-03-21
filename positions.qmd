@@ -10,7 +10,7 @@ editor:
 
 The [Human and Machine Learning (HaML) Lab](https://hamllab.org) in the Department of Psychology at the University of Wisconsin–Milwaukee seeks a full-time Research Intern to begin around May 2024. Lab studies will examine how human memory supports optimal decision making in both familiar contexts and new situations, using behavioral and neuroimaging data and model simulations. Responsibilities include conducting behavioral and neuroimaging studies, supervising and training undergraduate research assistants, and fostering connections with the broader Milwaukee community. This position is ideal for those interested in applying to graduate school and/or a career in experimental psychology or neuroscience, as it will provide hands-on training, a vibrant and diverse intellectual community within UWM's Department of Psychology, and the opportunity to present at conferences and co-author publications.
  
-The position has a duration of 1 year, with potential for a 1-year extension. The successful candidate will work primarily on site at UWM's campus and at the Center for Imaging Research at the Medical College of Wisconsin, where scanning studies will be conducted. Individuals from all backgrounds are welcome to apply, and those from backgrounds unrepresented in science are especially encouraged to do so. Depending on the applicant's experience, the salary will range from $45,000 to $50,0000.
+The position has a duration of 1 year, with potential for a 1-year extension. The successful candidate will work primarily on site at UWM's campus and at the Center for Imaging Research at the Medical College of Wisconsin, where scanning studies will be conducted. Individuals from all backgrounds are welcome to apply, and those from backgrounds unrepresented in science are especially encouraged to do so. Depending on the applicant's experience, the salary will range from $44,000 to $46,000.
  
 The HaML Lab studies how humans acquire and apply knowledge to make informed decisions in a complex and uncertain world. We aim to develop a comprehensive theory of human learning that takes into account memory limitations, motivation, and uncertainty, while explaining how memories are formed and transformed through memory consolidation. We use a combination of behavioral methods from cognitive psychology and neural measures obtained using neuroimaging, which are used to inform development of neurally informed machine learning models that mimic human behavior and brain activity. We ultimately aim to have an impact beyond the lab by informing understanding of memory problems and memory-related disorders such as PTSD. The HaML Lab, which started in Fall 2023, is directed by [Neal Morton, PhD](people/nealmorton.html).
 
@@ -24,6 +24,15 @@ The HaML Lab studies how humans acquire and apply knowledge to make informed dec
 *	Assisting with managing institutional review board (IRB) protocols
 *	Assisting with day-to-day lab tasks, including ordering and maintaining supplies, communicating with other labs and community entities, and helping with website management
 
+## Benefits
+
+*	Hands-on training in cutting-edge psychology and neuroscience research techniques
+*	Experience and training in project management, data management, data science, data visualization, and science communication
+*	Opportunities to present research at national conferences, network with leading neuroscientists, and publish research in high-impact journals
+*	Professional development for graduate school or research positions
+*	Health, dental, and vision insurance plans
+*	A supportive culture that encourages time off and a healthy work-life balance
+
 ## Minimum Qualifications
 
 *	Bachelor's degree in psychology, neuroscience, or related field
@@ -36,7 +45,8 @@ The HaML Lab studies how humans acquire and apply knowledge to make informed dec
 *	Knowledge of experimental methods used to study human learning and memory
 *	Experience with study design, stimulus construction, and/or data management
 *	Programming and data analysis experience (e.g., Python, R, MATLAB)
+* Experience with neuroimaging methods
 
 ## How to Apply
 
-Please fill out the [application](https://form.jotform.com/240724870401147), including a cover letter explaining why you are interested in working at UWM in the HaML Lab and a CV or resume listing your relevant experience and skills. Applications received by April 1 will recieve full consideration.
+Please fill out the [application](https://form.jotform.com/240724870401147), including a cover letter explaining why you are interested in working at UWM in the HaML Lab and a CV or resume listing your relevant experience and skills. Applications received by April 8 will receive full consideration.
