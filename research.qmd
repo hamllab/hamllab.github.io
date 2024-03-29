@@ -9,6 +9,10 @@ csl: ref/cerebral-cortex.csl
 css: research.css
 ---
 
+## How is human knowledge organized in the brain to support reasoning?
+
+Much research on human learning has focused on formation and retrieval of simple associations in memory. However, human intelligence also relies on a sophisticated ability to recognize common patterns and reason by analogy. Through computational modeling and neuroimaging, we examine how the brain represents existing knowledge and recognizes common patterns to facilitate reasoning.
+
 Below are summaries and visual abstracts of some of the lab's recent research. See the full papers for details. A full list of publications, with links to free access on PubMed for most papers, is available on the [publications](publications.html) page.
 
 ### Knowledge of related events becomes integrated during learning and predicts reasoning performance
