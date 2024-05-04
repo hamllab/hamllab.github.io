@@ -13,6 +13,12 @@ editor:
 * [![Neal Morton](people/images/profile_NealMorton.jpg)](people/nealmorton.html) *Neal Morton*
 :::
 
+# Undergraduate Researchers
+
+::: {.picture-list}
+* [![Ana Casper](people/images/profile_AnaCasper.jpg)](people/anacasper.html) *Ana Casper*
+:::
+
 # Current collaborators
 
 __University of Illinois at Chicago__
