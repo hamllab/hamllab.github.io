@@ -1,0 +1,19 @@
+---
+title: "Ana Casper"
+about:
+  template: trestles
+  image: images/profile_AnaCasper.jpg
+  links:
+    - icon: mailbox
+      text: email
+      href: mailto:ancasper@uwm.edu
+toc: false
+editor: 
+  mode: source
+---
+
+Hi! I'm Ana! I'm an undergraduate student in the Honors College double majoring in Neuroscience and Psychology. I'm still exploring my interests, but so far I'm particularly interested in perception, as well as cognition and memory (and I'm excited to learn more!)
+
+## Awards
+
+Support for Undergraduate Research Fellows (SURF) award, University of Wisconsin–Milwaukee Office of Undergraduate Research, Summer 2024
