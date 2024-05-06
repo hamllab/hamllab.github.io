@@ -6,7 +6,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: https://panthers-my.sharepoint.com/:b:/r/personal/nmorton_uwm_edu/Documents/Files/Credentials/morton_cv_2024-04-19.pdf?csf=1&web=1&e=WbJFfR
+      href: https://panthers-my.sharepoint.com/:b:/g/personal/nmorton_uwm_edu/Ec2VpxjsUZNKiNw54o-GuhABj6eBGiz1d_VyM4y-LmIduQ?e=LGNGxk
     - icon: share
       text: Bluesky
       href: https://bsky.app/profile/nealmorton.bsky.social
