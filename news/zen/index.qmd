@@ -8,6 +8,8 @@ editor:
   mode: source
 ---
 
+![](haml_zen.png){width=300 fig-align="left" fig-alt="AI-generated image of a brain above an open book"}
+
 The Python programming language has high-level advice to people developing Python code, called [the Zen of Python](https://peps.python.org/pep-0020/), to try to explain what good code looks like. The following list is my attempt to make a similar set of principles for what good research looks like, based on my 17 years of experience. They reflect general principles rather than hard-and-fast rules.
 
 -   Get comfortable with being wrong and work hard to become less wrong.
