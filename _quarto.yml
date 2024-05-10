@@ -20,6 +20,9 @@ website:
       - icon: github
         href: "https://github.com/hamllab"
         text: HaML Lab GitHub
+      - icon: wikipedia
+        href: "https://wiki.hamllab.org"
+        text: HaML Lab Wiki
   page-footer:
     left: |
       [![](https://raw.githubusercontent.com/hamllab/hamllab.github.io/main/images/UWM_Logo-Preferred_Black-GoldFlag.jpg){fig-alt="UWM" width=200px}](https://uwm.edu)
