@@ -3,6 +3,7 @@ title: "Recruiting a Research Coordinator"
 description: "Now taking applications for a Research Coordinator!"
 author: "Neal Morton"
 date: "2024-03-18"
+image: "mke_brain.png"
 editor: 
   mode: source
 ---

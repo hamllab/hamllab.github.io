@@ -3,6 +3,7 @@ title: "The Zen of Research"
 description: "Principles of doing rigorous and impactful research and having fun doing it."
 author: "Neal Morton"
 date: "2023-10-29"
+image: "haml_zen.png"
 editor: 
   mode: source
 ---
