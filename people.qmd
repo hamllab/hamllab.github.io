@@ -10,19 +10,19 @@ editor:
 # Director
 
 ::: {.picture-list}
-* [![Neal Morton](people/images/profile_NealMorton.jpg)](people/nealmorton.html) *Neal Morton*
+* [![Neal Morton](people/images/profile_NealMorton.jpg)](people/nealmorton.html) [Neal Morton](people/nealmorton.html)
 :::
 
 # Graduate Students
 
 ::: {.picture-list}
-* [![Linzan Liu](people/images/profile_LinzanLiu.jpg)](people/linzanliu.html) *Linzan Liu*
+* [![Linzan Liu](people/images/profile_LinzanLiu.jpg)](people/linzanliu.html) [Linzan Liu](people/linzanliu.html)
 :::
 
 # Undergraduate Researchers
 
 ::: {.picture-list}
-* [![Ana Casper](people/images/profile_AnaCasper.jpg)](people/anacasper.html) *Ana Casper*
+* [![Ana Casper](people/images/profile_AnaCasper.jpg)](people/anacasper.html) [Ana Casper](people/anacasper.html)
 :::
 
 # Current collaborators
