@@ -1,0 +1,22 @@
+---
+title: "Mahkia Golbashi"
+about:
+  template: trestles
+  image: images/profile_MahkiaGolbashi.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mahkia-golbashi-b8934b1ba
+    - icon: mailbox
+      text: email
+      href: mailto:golbashi@uwm.edu
+toc: false
+editor: 
+  mode: source
+---
+
+I'm enthusiastic about neuroscience and trying to get closer to solving the mystery of the brain!
+
+## Education
+
+__Amirkabir University of Technology__ | B.A. in Biomedical Engiineering | | 2022
