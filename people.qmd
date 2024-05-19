@@ -17,6 +17,7 @@ editor:
 
 ::: {.picture-list}
 * [![Linzan Liu](people/images/profile_LinzanLiu.jpg)](people/linzanliu.html) *Linzan Liu*
+* [![Mahkia Golbashi](people/image/profile_MahkiaGolbashi.jpg)](people/mahkiagolbashi.html) *Mahkia Golbashi*
 :::
 
 # Undergraduate Researchers
