@@ -13,6 +13,13 @@ editor:
 * [![Neal Morton](people/images/profile_NealMorton.jpg)](people/nealmorton.html) *Neal Morton*
 :::
 
+# Graduate Students
+
+::: {.picture-list}
+* [![Linzan Liu](people/images/profile_LinzanLiu.jpg)](people/linzanliu.html) *Linzan Liu*
+* [![Mahkia Golbashi](people/images/profile_MahkiaGolbashi.jpg)](people/mahkiagolbashi.html) *Mahkia Golbashi*
+:::
+
 # Undergraduate Researchers
 
 ::: {.picture-list}

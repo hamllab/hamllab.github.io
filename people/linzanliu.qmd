@@ -1,0 +1,32 @@
+---
+title: "Linzan Liu"
+about:
+  template: trestles
+  image: images/profile_LinzanLiu.jpg
+  links:
+    - icon: twitter
+      text: X
+      href: https://twitter.com/LiuLinzan
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/linzan-liu-7ab4b8238/
+    - icon: github
+      text: Github
+      href: https://github.com/LinzanLiu
+    - icon: mailbox
+      text: email
+      href: mailto:linzan@uwm.com
+toc: false
+editor: 
+  mode: source
+---
+
+I received a B.S. in Computer Science from the University of Malaya in Malaysia. Between October 2022 and March 2024, I served as a remote research assistant in Dr. Lisa Genzel's lab at the Donders Institute in the Netherlands. Subsequently, I moved to the Center de Recerca Matemàtica in Barcelona as a research intern under the supervision of Dr. Klaus Wimmer. Currently, I am a Ph.D. student working with Dr. Neal Morton in the HaML Lab in the Department of Psychology at the University of Wisconsin-Milwaukee.
+
+My primary research interest lies in exploring and modelling cognitive functions of human brain by neuroimaging techniques such as fMRI, with to contribute to future general artificial intelligence and machine learning technologies. 
+
+Outside of academia, I enjoy engaging in various sports, particularly basketball and fitness activities during my leisure time.
+
+## Education
+
+__University of Malaya__ | Kuala Lumpur, Malaysia | B.S. in Computer Science | 2024
