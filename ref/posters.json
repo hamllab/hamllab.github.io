@@ -1,0 +1,29 @@
+[
+    {
+        "type": "paper-conference",
+        "author": [
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Polyn",
+                "given": "Sean M"
+            }
+        ],
+        "title": "Memory search dynamics reflect retrieval of semantic context",
+        "abstract": "Behavioral and neural studies suggest that episodic memories contain information about both the semantic content of events and the temporal context in which they occur. However, it remains unclear how specifically content and context are represented in episodic memories. We recently proposed a distributed context maintenance and retrieval (DCMR) model, wherein distributed semantic features and temporal features are incorporated into a single representation of context. Here, we used a free-recall dataset to test a novel prediction of DCMR that retrieved context should include semantic information not only about the just-recalled item, but also the item presented prior to it in the list. Consistent with this prediction, we found that participants were more likely to recall items that were semantically related to the prior item in the list compared to the following item. Our results provide novel evidence that item memories include information about the semantic context in which they appeared.",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024",
+                    "5",
+                    "31"
+                ]
+            ]
+        },
+        "publisher-place": "Philadelphia, PA",
+        "event": "Context and Episodic Memory Symposium",
+        "id": "2024_Morton_CEMS"
+    }
+]
