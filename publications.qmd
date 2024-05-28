@@ -5,6 +5,8 @@ editor:
   mode: source
 ---
 
+The lab publishes our research in peer-reviewed journals. Most articles have a freely available version published on PubMed. We also generally publish any data and code used in each study so that other researchers can build on our work.
+
 ```{python}
 #| echo: false
 #| output: asis
