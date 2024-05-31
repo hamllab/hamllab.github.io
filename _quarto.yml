@@ -14,6 +14,7 @@ website:
       - people.qmd
       - research.qmd
       - publications.qmd
+      - posters.qmd
       - software.qmd
       - positions.qmd
     tools:

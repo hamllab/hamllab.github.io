@@ -5,6 +5,8 @@ editor:
   mode: source
 ---
 
+The lab publishes research software so anyone can use the advanced methods we develop.
+
 ```{python}
 #| echo: false
 #| output: asis

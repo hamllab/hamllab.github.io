@@ -1,0 +1,16 @@
+---
+title: "Posters"
+editor: 
+  mode: source
+bibliography: ref/posters.json
+reference-location: margin
+citation-location: margin
+csl: ref/cerebral-cortex.csl
+---
+
+The lab presents research in progress at scientific conferences. These are some of the lab's recent poster presentations.
+
+# 2024 Context and Episodic Memory Symposium
+
+Memory search dynamics reflect retrieval of semantic context [@2024_Morton_CEMS].
+[![](ref/posters/2024_Morton_CEMS_small.png)](ref/posters/2024_Morton_CEMS.png)
