@@ -47,6 +47,6 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 execute:
   daemon: 10
