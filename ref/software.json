@@ -1,7 +1,32 @@
 [
   {
+    "DOI": "10.5281/zenodo.11214414",
+    "author": [
+      {
+        "family": "Neal W Morton"
+      },
+      {
+        "family": "Sean M. Polyn"
+      }
+    ],
+    "id": "11214414",
+    "issued": {
+      "date-parts": [
+        [
+          "2024",
+          "05",
+          "18"
+        ]
+      ]
+    },
+    "language": "eng",
+    "publisher": "Zenodo",
+    "title": "DCMR: Evaluating the distributed context maintenance and retrieval model on free recall data",
+    "type": "software"
+  },
+  {
     "publisher": "Zenodo", 
-    "DOI": "10.5281/zenodo.8061964", 
+    "DOI": "10.5281/zenodo.4248135", 
     "language": "eng", 
     "title": "Mindstorm: Advanced neuroimaging analysis", 
     "issued": {
@@ -25,7 +50,7 @@
   },
   {
     "publisher": "Zenodo", 
-    "DOI": "10.5281/zenodo.8008219", 
+    "DOI": "10.5281/zenodo.4086187", 
     "language": "eng", 
     "title": "Psifr: Analysis and visualization of free recall data", 
     "issued": {
@@ -49,7 +74,7 @@
   },
   {
     "publisher": "Zenodo", 
-    "DOI": "10.5281/zenodo.6761908", 
+    "DOI": "10.5281/zenodo.4557123", 
     "language": "eng", 
     "title": "CyMR: Computational modeling of free recall data", 
     "issued": {
@@ -76,7 +101,7 @@
   },
   {
     "publisher": "Zenodo", 
-    "DOI": "10.5281/zenodo.5921956", 
+    "DOI": "10.5281/zenodo.5904032", 
     "language": "eng", 
     "title": "fPrep: Preprocessing of fMRI data.", 
     "issued": {
@@ -100,7 +125,7 @@
   },
   {
     "publisher": "Zenodo", 
-    "DOI": "10.5281/zenodo.4746649", 
+    "DOI": "10.5281/zenodo.4453878", 
     "title": "WikiVector: Tools for encoding Wikipedia articles as vectors", 
     "issued": {
       "date-parts": [
@@ -132,7 +157,7 @@
   },
   {
     "publisher": "Zenodo", 
-    "DOI": "10.5281/zenodo.4298981", 
+    "DOI": "10.5281/zenodo.4282757", 
     "title": "PsiReact: Hierarchical Bayesian modeling of response time data", 
     "issued": {
       "date-parts": [

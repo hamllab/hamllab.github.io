@@ -6,6 +6,7 @@
 .quarto/
 _site/
 .venv/
+venv/
 .DS_Store
 *combined.png
 
