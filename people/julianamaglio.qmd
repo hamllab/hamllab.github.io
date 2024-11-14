@@ -1,0 +1,13 @@
+---
+title: "Juliana Maglio"
+about:
+  template: trestles
+  image: images/profile_JulianaMaglio.jpg
+  links:
+    - icon: mailbox
+      text: email
+      href: mailto:jgmaglio@uwm.edu
+toc: false
+editor: 
+  mode: source
+---
