@@ -24,6 +24,7 @@ editor:
 
 ::: {.picture-list}
 * [![Ana Casper](people/images/profile_AnaCasper.jpg)](people/anacasper.html) *Ana Casper*
+* [![Juliana Maglio](people/images/profile_JulianaMaglio.jpg)](people/julianamaglio.html) *Juliana Maglio*
 :::
 
 # Current collaborators
