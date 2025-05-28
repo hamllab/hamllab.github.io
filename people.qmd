@@ -17,10 +17,17 @@ editor:
 
 ::: {.picture-list}
 * [![Linzan Liu](people/images/profile_LinzanLiu.jpg)](people/linzanliu.html) *Linzan Liu*
+* [![Sam Chipman](people/images/profile_SamChipman.jpg)](people/samchipman.html) *Sam Chipman*
+:::
+
+# Researchers
+::: {.picture-list}
 * [![Mahkia Golbashi](people/images/profile_MahkiaGolbashi.jpg)](people/mahkiagolbashi.html) *Mahkia Golbashi*
 :::
 
-# Undergraduate Researchers
+# Alumni
+
+## Undergraduate Researchers
 
 ::: {.picture-list}
 * [![Ana Casper](people/images/profile_AnaCasper.jpg)](people/anacasper.html) *Ana Casper*
