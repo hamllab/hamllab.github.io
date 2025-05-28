@@ -17,10 +17,17 @@ editor:
 
 ::: {.picture-list}
 * [![Linzan Liu](people/images/profile_LinzanLiu.jpg)](people/linzanliu.html) *Linzan Liu*
+* [![Sam Chipman](people/images/profile_SamChipman.jpg)](people/samchipman.html) *Sam Chipman*
+:::
+
+# Researchers
+::: {.picture-list}
 * [![Mahkia Golbashi](people/images/profile_MahkiaGolbashi.jpg)](people/mahkiagolbashi.html) *Mahkia Golbashi*
 :::
 
-# Undergraduate Researchers
+# Alumni
+
+## Undergraduate Researchers
 
 ::: {.picture-list}
 * [![Ana Casper](people/images/profile_AnaCasper.jpg)](people/anacasper.html) *Ana Casper*
@@ -44,7 +51,6 @@ __University of Texas at Austin__
 * [Katherine Sherrill](https://www.linkedin.com/in/katherine-sherrill?challengeId=AQHwZQkQhjV1mwAAAYt8sNymv3AigS-ZsZiws9tQLBc4lpSyFsofoNQk72RU6G9w_NJ9ciTxCpWuioRipVlOXB43wW7Jwvt2UA&submissionId=6a1d159f-61a7-9217-78de-73527527066e&challengeSource=AgH-WCVhR4mcOwAAAYt8sOIQqxkbhiqtpMVgFIeehsfVPhhh3nblpsefUdMoCe0&challegeType=AgHDaa75O4IULAAAAYt8sOIUZS1IAMK3Ps_ZCu4hG4Ou6IUh7lX5biI&memberId=AgEPep8aSQX-XwAAAYt8sOIXcnkI9mguoM-DjqKqMPOEjYU&recognizeDevice=AgHx-7Q1fttoHQAAAYt8sOIbOIr7eFBFv3XjR28muG878RlKt8f2)
 * [Nicole Varga](https://scholar.google.com/citations?user=ay5UOT4AAAAJ&hl=en)
 * [Omer Ashmaig](https://neuroscience.utexas.edu/component/cobalt/item/4569-omer-ashmaig?Itemid=1258)
-* [Hannah Roome](https://scholar.google.com/citations?user=Cpobc38AAAAJ&hl=en)
 * [Rebecca Cutler](https://rebeccacutler.com/)
 
 __Vanderbilt University__

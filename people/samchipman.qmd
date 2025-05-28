@@ -1,0 +1,29 @@
+---
+title: "Sam Chipman"
+about:
+  template: trestles
+  image: images/profile_SamChipman.jpg
+  links:
+    - icon: mailbox
+      text: email
+      href: mailto:chipmans@uwm.edu
+toc: false
+editor:
+  mode: source
+---
+
+I received my B.S. in Psychology from Brigham Young University, where I managed the Kirwan Memory and Decision Making Lab (2022–2024), worked as a research assistant in the Brain Imaging and Behavior Lab (2022–2024), and served as a teaching assistant for Psychological Statistics. 
+
+My research interests center on learning and memory—particularly the relationship between attention and memory, and how these processes can be manipulated to enhance recall. I have explored these questions using both fMRI and behavioral methods. 
+
+Outside of the lab, I enjoy skiing, mountain biking, BBQ (hopefully competitively soon), and spending as much time as possible with my wife and daughter.
+
+## Education
+
+__Brigham Young University__ | Provo, UT | B.S. in Psychology | 2024
+
+## Positions
+
+__Brigham Young University__ | Kirwan Memory and Decision-Making Lab | Manager | 2022-2024
+
+__Brigham Young University__ | Brain Imaging and Behavior Lab | Research Assistant | 2022-2024
