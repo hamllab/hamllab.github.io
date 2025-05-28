@@ -30,7 +30,11 @@ editor:
   mode: source
 ---
 
-Neal Morton is the Director of the Human and Machine Learning lab.
+I was interested in theoretical physics growing up, and later developed an interest in chemistry, which I studied at the University of Pennsylvania, before finally switching majors to Cognitive Science. After getting my Bachelor's, I worked in Michael Kahana's Computational Memory Lab, studying episodic memory using behavior, modeling, scalp EEG, and iEEG. I completed a PhD in Psychology at Vanderbilt University, working with Sean Polyn to study the role of temporal context in memory, using EEG and fMRI to inform models of episodic memory. After my PhD, I worked as a Research Associate at The University of Texas at Austin with Ali Preston, researching the role of memory integration in shaping representations of related memories using fMRI with pattern-similarity methods and machine learning. I am now an Assistant Professor at UWM, and I direct the Human and Machine Learning (HaML) lab.
+
+The field of memory research has made impressive progress in characterizing memory function, but fundamental questions remain. Why do we remember? Why do we forget? How are humans able to adapt their behavior in such a wide range of circumstances? How is our understanding of the world, and ourselves, shaped by our experiences? I am determined to answer these questions so we can better understand our own minds.
+
+Outside the lab, I play drums and other percussion instruments. I'm currently playing Guatemalan marimba and steel pan drums with the [Community World Music Ensemble](https://uwm.edu/sce/courses/community-world-music-ensemble/) at UWM.
 
 ## Education
 
