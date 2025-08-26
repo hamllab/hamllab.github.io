@@ -12,10 +12,12 @@ editor:
 ::: {.picture-list}
 * [![Neal Morton](people/images/profile_NealMorton.jpg)](people/nealmorton.html) *Neal Morton*
 :::
+
 # Research Coordinator
 ::: {.picture-list}
-* [![Tierel Hood-nellum](people/images/profile_NealMorton.jpg)](people/nealmorton.html) *Neal Morton*
+* [![Tierel Hood-nellum](people/images/profile_NealMorton.jpg)](people/nealmorton.html) *Tierel Hood-nellum*
 :::
+
 # Graduate Students
 
 ::: {.picture-list}
