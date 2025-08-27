@@ -1,0 +1,39 @@
+---
+title: "Tierel Hood-nellum"
+about:
+  template: trestles
+  image: images/profile_TierelHoodnellum.jpg
+  links:
+    - icon: file-earmark-pdf
+      text: CV
+      href: https://panthers-my.sharepoint.com/:b:/r/personal/tierel_uwm_edu/Documents/Tierel%20CV.pdf?csf=1&web=1&e=V5RiWs
+    - icon: linkedin
+      text: LinkedIn
+      href: https: https://www.linkedin.com/in/tierel-hood-nellum-460b0a221/
+    - icon: github
+      text: Github
+      href: https://github.com/jacksonfivenot
+    - icon: mailbox
+      text: email
+      href: mailto:tierel@uwm.edu
+toc: false
+editor: 
+  mode: source
+---
+
+I have always been interested in the social sciences since I was young. Often, I would do small, often crude, experiments of my own as a kid to figure out how things work. Other times, I would think about the mess that I just created and how I could make it less of a mess next time I did it. Given this, I often get hindsight bias when thinking concurrently about my chosen field and my childhood pasttimes. 
+When I'm not doing projects, I'm playing chess, painting, writting for fun, or reading.
+
+## Education
+
+__UW-Greenbay__ | B.A. in Psychology | August 2021 - May 2023
+
+__UW-Milwaukee__ | B.A. in Psychology | Advisor: Krista Lisdahl | Sept 2023 - August 2025
+
+## Positions
+
+__University of Wisconsin-Milwaukee__ | BraIN lab | Research Assistant | Sept 2023 - present
+
+__The University of Texas at Austin__ | HaML lab | Research Coordinator | August 2025 - present
+
+__Medical College of Wisconsin__ | Human Developmetal Genetics lab | lab technician | April 2024 - present
