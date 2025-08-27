@@ -6,7 +6,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: https://panthers-my.sharepoint.com/:b:/r/personal/tierel_uwm_edu/Documents/Tierel%20CV.pdf?csf=1&web=1&e=V5RiWs
+      href: https://panthers-my.sharepoint.com/:b:/g/personal/tierel_uwm_edu/EeSARwscXV1IoVMvqYiWlk8Bpvp14hM4gY8zDv6vqFJG4g?e=y9K75q
     - icon: linkedin
       text: LinkedIn
       href: https: https://www.linkedin.com/in/tierel-hood-nellum-460b0a221/
