@@ -15,7 +15,7 @@ editor:
 
 # Research Coordinator
 ::: {.picture-list}
-* [![Tierel Hood-nellum](people/images/profile_NealMorton.jpg)](people/nealmorton.html) *Tierel Hood-nellum*
+* [![Tierel Hood-nellum](people/images/tierel.jpg)](people/tierelhoodnellum.html) *Tierel Hood-nellum*
 :::
 
 # Graduate Students
