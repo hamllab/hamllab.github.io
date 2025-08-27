@@ -9,7 +9,7 @@ about:
       href: https://panthers-my.sharepoint.com/:b:/g/personal/tierel_uwm_edu/EeSARwscXV1IoVMvqYiWlk8Bpvp14hM4gY8zDv6vqFJG4g?e=y9K75q
     - icon: linkedin
       text: LinkedIn
-      href: https: https://www.linkedin.com/in/tierel-hood-nellum-460b0a221/
+      href: www.linkedin.com/in/tierel-hood-nellum-460b0a221
     - icon: github
       text: Github
       href: https://github.com/jacksonfivenot
