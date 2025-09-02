@@ -2,7 +2,7 @@
 title: "Recruiting PhD students for Fall 2024"
 description: "Now taking applications for Neuroscience PhD students!"
 author: "Neal Morton"
-date: "2023-10-30"
+date: "2025-9-2"
 image: mke_brain.png
 editor: 
   mode: source
