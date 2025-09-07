@@ -28,7 +28,7 @@ website:
     left: |
       [![](https://raw.githubusercontent.com/hamllab/hamllab.github.io/main/images/UWM_Primary_Logo.png){fig-alt="UWM" width=200px}](https://uwm.edu)
     center: |
-      __Contact Us__ <br>
+      __[Contact Us](mailto:haml-lab@uwm.edu)__ <br>
       <br>
       Human and Machine Learning Lab <br>
       Department of Psychology <br>
