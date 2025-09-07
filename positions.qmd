@@ -19,10 +19,10 @@ The HaML Lab studies how humans acquire and apply knowledge to make informed dec
 To participate in research, undergraduate researchers must first undergo Level I training in one or more of the specific research roles. Level I training involves reading about best practices and passing a short quiz. It's most common to start with being a Study Proctor, who helps run experimental sessions. Researchers can also get involved with designing studies, developing tasks, supervising data collection for a study, or conducting literature reviews.
 Undergraduate Researchers can be certified as having completed training for various research roles:
 
-*	Study Designer: Creates the experimental design for a study
-*	Study Developer: Takes an experimental design and implements it as a task
-*	Study Proctor: Runs participants through a task to collect data
-*	Study Coordinator: Supervises data collection for a study and performs quality assurance checks on the data
+*	Study Designer: Creates the experimental design for a study.
+*	Study Developer: Takes an experimental design and implements it as a task.
+*	Study Proctor: Runs participants through a task to collect data.
+*	Study Coordinator: Supervises data collection for a study and performs quality assurance checks on the data.
 
 Any completed training will be displayed on your profile on the lab website, which you can show to potential employers or graduate school advisors.
 After completing Level I training, researchers can work on a project. If they complete a certain amount of research through that project, then they will qualify for Level II certification, which then enables them to take on an independent project like writing a literature review on a topic they're interested in or designing and running a new study. Researchers who complete an independent project and create an approved research product, such as a paper, thesis, or cognitive task, qualify for Level III certification, which indicates that they are skilled at performing some aspect of research independently.
@@ -30,18 +30,18 @@ After completing Level I training, researchers can work on a project. If they co
 
 ## Benefits
 
-*	Hands-on training in cutting-edge psychology and neuroscience research techniques
-*	Experience and training in working with data, data visualization, and science communication
-*	Opportunities to present research at national and local conferences, network with leading neuroscientists
-*	Professional development for graduate school or research positions
-*	A supportive culture that encourages time off and a healthy work-life balance
+*	Hands-on training in cutting-edge psychology and neuroscience research techniques.
+*	Experience and training in working with data, data visualization, and science communication.
+*	Opportunities to present research at national and local conferences, network with leading neuroscientists.
+*	Professional development for graduate school or research positions.
+*	A supportive culture that encourages time off and a healthy work-life balance.
 
 ## Minimum Qualifications
-*  Some relevant coursework in psychology, neuroscience, math, and/or statistics
+*  Some relevant coursework in psychology, neuroscience, math, and/or statistics.
 
 ## Preferred Qualifications
-*	Experience with research, especially research studies with human participants
-*	Programming experience
+*	Experience with research, especially research studies with human participants.
+*	Programming experience.
 
 ## How to Apply
 To start working as an undergraduate researcher in the lab, contact the Lab Director with relevant information, such as your current transcript and CV/resume, and a short description of why you are interested in doing research in the HaML Lab. Undergraduate researchers can get involved in research as volunteers, for course credit, or for pay through a fellowship program.
