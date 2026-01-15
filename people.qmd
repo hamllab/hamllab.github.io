@@ -25,10 +25,7 @@ editor:
 * [![Sam Chipman](people/images/profile_SamChipman.jpg)](people/samchipman.html) *Sam Chipman*
 :::
 
-# Researchers
-::: {.picture-list}
-* [![Mahkia Golbashi](people/images/profile_MahkiaGolbashi.jpg)](people/mahkiagolbashi.html) *Mahkia Golbashi*
-:::
+
 
 # Alumni
 
@@ -37,6 +34,11 @@ editor:
 ::: {.picture-list}
 * [![Ana Casper](people/images/profile_AnaCasper.jpg)](people/anacasper.html) *Ana Casper*
 * [![Juliana Maglio](people/images/profile_JulianaMaglio.jpg)](people/julianamaglio.html) *Juliana Maglio*
+:::
+
+## Researchers
+::: {.picture-list}
+* [![Mahkia Golbashi](people/images/profile_MahkiaGolbashi.jpg)](people/mahkiagolbashi.html) *Mahkia Golbashi*
 :::
 
 # Current collaborators
