@@ -1,0 +1,21 @@
+---
+title: "Ashton Hoodjer"
+about:
+  template: trestles
+  image: images/profile_NealMorton.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ashton-hoodjer-008b683aa/
+    - icon: mailbox
+      text: email
+      href: mailto:ahoodjer@uwm.edu
+toc: false
+editor: 
+  mode: source
+---
+My name is Ashton Hoodjer, I am an undergraduate student at UW-Milwaukee. 
+Initially I was an engineering student but after deciding that psychology is where my passions truly lie, I have found great success in the major. 
+In the future I hope to find postgraduate programs and work hard to fulfill my goals in education, graduating in 2027. 
+In my free time I enjoy basketball, going to the gym, keeping updated on current topics, and spending time with friends and family.
+
