@@ -2,7 +2,7 @@
 title: "Gracie Wild"
 about:
   template: trestles
-  image: images/profile_NealMorton.jpg
+  image: images/profile_GracieWild.jpg
   links:
     - icon: linkedin
       text: LinkedIn
