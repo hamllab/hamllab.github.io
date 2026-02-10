@@ -25,7 +25,12 @@ editor:
 * [![Sam Chipman](people/images/profile_SamChipman.jpg)](people/samchipman.html) *Sam Chipman*
 :::
 
+## Undergraduate Researchers
 
+::: {.picture-list}
+* [![Ashton Hoodjer](people/images/profile_AshtonHoodjer.jpg)](people/ashtonhoodjer.html) *Ashton Hoodjer*
+* [![Gracie Wild](people/images/profile_GracieWild.jpg)](people/graciewild.html) *Gracie Wild*
+:::
 
 # Alumni
 
