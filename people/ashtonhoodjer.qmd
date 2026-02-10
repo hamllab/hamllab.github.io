@@ -2,7 +2,7 @@
 title: "Ashton Hoodjer"
 about:
   template: trestles
-  image: images/profile_NealMorton.jpg
+  image: images/profile_AshtonHoodjer.jpg
   links:
     - icon: linkedin
       text: LinkedIn
