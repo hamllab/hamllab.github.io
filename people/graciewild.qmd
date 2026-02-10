@@ -1,0 +1,21 @@
+---
+title: "Gracie Wild"
+about:
+  template: trestles
+  image: images/profile_GracieWild.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: http://linkedin.com/in/cheri-grace-wild-406731364
+    - icon: mailbox
+      text: email
+      href: mailto:ccwild@uwm.edu
+toc: false
+editor: 
+  mode: source
+---
+I am currently a senior undergraduate student here at the University of Wisconsin-Milwaukee majoring in Psychology. In addition, I am working to obtain my Child and Adolescent Studies Certificate. 
+
+I am interested in learning more about the role that cognitive functioning and memory play in each individual’s ability to navigate the world. I’m excited to apply my growing knowledge of the psychology of children and adolescents into the research done in the HaML lab on cognitive functioning and memory. 
+
+In my free time, I enjoy spending time outside in any capacity! Because of this passion, I’m working toward visiting every National Park in the U.S. I also enjoy crafting, singing, and spending time with family and friends. 
