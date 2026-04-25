@@ -1,5 +1,41 @@
 [
     {
+        "type": "article-journal",
+        "title": "Children and adults use distinct neurocognitive mechanisms to support successful memory-based inference",
+        "author": [
+            {
+                "family": "Coughlin",
+                "given": "Christine"
+            },
+            {
+                "family": "Schlichting",
+                "given": "Margaret L."
+            },
+            {
+                "family": "Morton",
+                "given": "Neal W"
+            },
+            {
+                "family": "Sherrill",
+                "given": "Katherine R."
+            },
+            {
+                "family": "Moreau",
+                "given": "Michelle"
+            },
+            {
+                "family": "Preston",
+                "given": "Alison R."
+            }
+        ],
+        "container-title": "bioRxiv",
+        "id": "2026_Coughlin",
+        "DOI": "10.64898/2026.04.21.719709",
+        "icon": "images/2026_Coughlin.png",
+        "code": "https://doi.org/10.5281/zenodo.19364576",
+        "status": "Submitted"
+    },
+    {
         "type": "chapter",
         "title": "Schema, Inference, and Memory",
         "author": [
