@@ -78,6 +78,8 @@ def gen_publications(json_file, csl_file, icon_background, icon_default):
             
             # prepare links
             links = {}
+            if "preprint" in val:
+                links["Preprint"] = val["preprint"]
             if "DOI" in val:
                 doi = val["DOI"]
                 links["DOI"] = f"http://doi.org/{doi}"
@@ -92,8 +94,6 @@ def gen_publications(json_file, csl_file, icon_background, icon_default):
                 links["Data"] = val["data"]
             if "post" in val:
                 links["Overview"] = val["post"]
-            if "preprint" in val:
-                links["Preprint"] = val["preprint"]
             
             # generate entry from template
             entry = {"icon": icon, "reference": reference, "links": links}
