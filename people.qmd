@@ -25,7 +25,7 @@ editor:
 * [![Sam Chipman](people/images/profile_SamChipman.jpg)](people/samchipman.html) *Sam Chipman*
 :::
 
-## Undergraduate Researchers
+# Undergraduate Researchers
 
 ::: {.picture-list}
 * [![Ashton Hoodjer](people/images/profile_AshtonHoodjer.jpg)](people/ashtonhoodjer.html) *Ashton Hoodjer*
