@@ -15,6 +15,12 @@ Much research on human learning has focused on formation and retrieval of simple
 
 Below are summaries and visual abstracts of some of the lab's recent research. See the full papers for details. A full list of publications, with links to free access on PubMed for most papers, is available on the [publications](publications.html) page.
 
+### Adult angular gyrus supports inference through direct retrieval of indirect associations
+
+Modeling of response-time measures and fMRI data reveals that angular gyrus activation predicts a direct retrieval process in adults but not children [@2026_Coughlin].
+
+![](ref/abstracts/2026_Coughlin.png)
+
 ### Knowledge of related events becomes integrated during learning and predicts reasoning performance
 
 A Wikipedia-based model of semantic relatedness predicted activity during learning that is related to integration of overlapping events [@2023_Morton].
