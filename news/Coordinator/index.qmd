@@ -1,7 +1,7 @@
 ---
 title: "Hiring for Research Coordinator position"
 description: "Now taking applications for Research Coordinator position!"
-author: "Neal Morton"
+author: "Tierel Hood-Nellum"
 date: "2026-06-10"
 image: mke_brain.png
 editor: 
