@@ -2,7 +2,7 @@
 title: "Patricia Iwok"
 about:
   template: trestles
-  image: images/profile_PatriciaIwok.jpg
+  image: images/profile_PatriciaIwok.jpeg
   links:
     - icon: linkedin
       text: LinkedIn
