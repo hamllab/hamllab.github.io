@@ -1,1 +1,13 @@
+---
+title: "Hiring for Research Coordinator position"
+description: "Now taking applications for Neuroscience PhD students!"
+author: "Neal Morton"
+date: "2026-06-10"
+image: mke_brain.png
+editor: 
+  mode: source
+---
 
+![](mke_brain.png){width=300 fig-align="left" fig-alt="AI-generated image of a brain in the Milwaukee sky"}
+
+The [HaML Lab](https://hamllab.org) is now taking applications for the Research Coordinator position at the [University of Wisconsin-Milwaukee](https://uwm.edu/). See the [Getting involved](/positions.html) page for details!
