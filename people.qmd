@@ -23,7 +23,7 @@ editor:
 ::: {.picture-list}
 * [![Linzan Liu](people/images/profile_LinzanLiu.jpg)](people/linzanliu.html) *Linzan Liu*
 * [![Sam Chipman](people/images/profile_SamChipman.jpg)](people/samchipman.html) *Sam Chipman*
-* [![Patricia Iwok](people/images/profile_PatriciaIwok.jpg)](people/patriciaiwok.html) *Patricia Iwok*
+* [![Patricia Iwok](people/images/profile_PatriciaIwok.jpeg)](people/patriciaiwok.html) *Patricia Iwok*
 :::
 
 # Undergraduate Researchers
