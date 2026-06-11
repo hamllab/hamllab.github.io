@@ -16,3 +16,12 @@ editor:
 ---
 
 I earned my B.A. in Psychology from the University of Wisconsin Milwaukee in May 2026. My undergraduate education included my first year at Cal Poly Humboldt and a study abroad experience at the University of Birmingham in the United Kingdom during my second year before transferring to UWM to complete my degree. My research interests include learning, computational modeling, and neuroimaging. I am particularly interested in using computational and neuroimaging methods to better understand learning processes and memory. Outside of research, I enjoy exploring Milwaukee’s restaurant scene, trying new recipes, crocheting, bead making, and creating air-dry clay projects.
+
+## Education
+
+__University of Wisconsin-Milwaukee__ | B.A. in Psychology | July 2024 - May 2026
+
+__University of Birmingham__ | B.A. in Psychology | September 2023 - July 2024
+
+__Humboldt State University__ | B.A. in Psychology | August 2022 - July 2023
+
