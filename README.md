@@ -10,11 +10,11 @@ The website can be updated by making edits directly on GitHub. First, create a b
 
 A local setup can make it easier to test out large changes to the website. To make changes to the website from your machine, you must first set up your environment.
 
--   Install R, RStudio, and a recent version of Python.
--   Open RStudio and clone this repository. Create a new branch if necessary and checkout that branch.
--   Create a Python virtual environment under the repository directory using `python -m venv venv`. This only needs to be done once.
--   Activate the virtual environment using `. venv/bin/activate` and install the Python package using `pip install -e .` This only needs to be rerun if a new module has been added to the `haml` Python package.
--   Install the Python environment to Jupyter using `python -m ipykernel install --user --name hamllab`. This only needs to be done once.
+- Install R, RStudio, and a recent version of Python.
+- Open RStudio and clone this repository. Create a new branch if necessary and checkout that branch.
+- Create a Python virtual environment under the repository directory using `python -m venv venv`. This only needs to be done once.
+- Activate the virtual environment using `. venv/bin/activate` and install the Python package using `pip install -e .` This only needs to be rerun if a new module has been added to the `haml` Python package.
+- Install the Python environment to Jupyter using `python -m ipykernel install --user --name hamllab`. This only needs to be done once.
 
 Now restart RStudio. You should then be able to run `quarto render` from the Terminal tab or use the Render button on the editor window to generate the site. When your edits are drafted, push the changes from your branch to the website repository. See above for details about checking the draft changes and publishing them.
 
