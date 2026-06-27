@@ -31,6 +31,7 @@ editor:
 ::: {.picture-list}
 * [![Ashton Hoodjer](people/images/profile_AshtonHoodjer.jpg)](people/ashtonhoodjer.html) *Ashton Hoodjer*
 * [![Gracie Wild](people/images/profile_GracieWild.jpg)](people/graciewild.html) *Gracie Wild*
+* [![Maja Davidovic](people/images/profile_MajaDavidovic.jpg)](people/majadavidovic.html) *Maja Davidovic*
 :::
 
 # Alumni
