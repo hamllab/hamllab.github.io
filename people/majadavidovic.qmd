@@ -1,0 +1,13 @@
+---
+title: "Maja Davidovic"
+about:
+  template: trestles
+  image: images/profile_MajaDavidovic.jpg
+  links:
+    - icon: mailbox
+      text: email
+      href: mailto:davidov5@uwm.edu
+toc: false
+editor: 
+  mode: source
+---
