@@ -5,7 +5,7 @@ format: html
 
 # Neuroscience PhD Program
 
-The Human and Machine Learning (HaML) Lab is recruiting a PhD student this year, to start in Fall 2026. If you're interested in human learning, machine learning, and neuroimaging, apply to work with Dr. Neal Morton through UWM's [Neuroscience PhD program](https://uwm.edu/psychology/graduate/phd-program/neuroscience/)! Read on for more specific information about completing a PhD in the [HaML Lab](https://hamllab.org).
+The Human and Machine Learning (HaML) Lab is recruiting a PhD student this year, to start in Fall 2027. If you're interested in human learning, machine learning, and neuroimaging, apply to work with Dr. Neal Morton through UWM's [Neuroscience PhD program](https://uwm.edu/psychology/graduate/phd-program/neuroscience/)! Read on for more specific information about completing a PhD in the [HaML Lab](https://hamllab.org).
 
 ## What does the lab do?
 
