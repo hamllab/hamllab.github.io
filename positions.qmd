@@ -4,12 +4,11 @@ editor:
   mode: source
 ---
 
-# Research
+# Education
 
-- [Neuroscience PhD](Neuroscience_PhD.qmd)
+- [Neuroscience PhD](positions/neuroscience-phd.qmd)
 
 # Position
 
-- [Research Coordinator](Research_Coordinator.qmd)
-- [Research Assistant](Research_Assistant.qmd)
-
+- [Research Coordinator](positions/research-coordinator.qmd)
+- [Research Assistant](positions/research-assistant.qmd)
