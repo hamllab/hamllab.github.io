@@ -23,8 +23,9 @@
 }
 
 .picture-list img {
-  height: 125px;
-  border-radius: 15px;
+  height: 150px;
+  border-radius: 5px;
   width: auto;
-  padding: 10px 10px;
+  padding: 0px;
+  margin: 0px 10px;
 }
