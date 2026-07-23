@@ -24,6 +24,7 @@
 
 .picture-list img {
   height: 125px;
+  border-radius: 12px;
   width: auto;
   padding: 0px 10px;
 }
