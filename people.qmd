@@ -10,28 +10,28 @@ editor:
 # Director
 
 ::: {.picture-list}
-* [![Neal Morton](people/images/profile_NealMorton.jpg)](people/nealmorton.html) *Neal Morton*
+* [![Neal Morton](people/images/profile_NealMorton.jpg)](people/neal-morton.html) *Neal Morton*
 :::
 
 # Research Coordinator
 ::: {.picture-list}
-* [![Tierel Hood-nellum](people/images/profile_TierelHoodnellum.jpg)](people/tierelhoodnellum.html) *Tierel Hood-nellum*
+* [![Tierel Hood-nellum](people/images/profile_TierelHoodnellum.jpg)](people/tierel-hood-nellum.html) *Tierel Hood-nellum*
 :::
 
 # Graduate Students
 
 ::: {.picture-list}
-* [![Linzan Liu](people/images/profile_LinzanLiu.jpg)](people/linzanliu.html) *Linzan Liu*
-* [![Sam Chipman](people/images/profile_SamChipman.jpg)](people/samchipman.html) *Sam Chipman*
-* [![Patricia Iwok](people/images/profile_PatriciaIwok.jpg)](people/patriciaiwok.html) *Patricia Iwok*
+* [![Linzan Liu](people/images/profile_LinzanLiu.jpg)](people/linzan-liu.html) *Linzan Liu*
+* [![Sam Chipman](people/images/profile_SamChipman.jpg)](people/sam-chipman.html) *Sam Chipman*
+* [![Patricia Iwok](people/images/profile_PatriciaIwok.jpg)](people/patricia-iwok.html) *Patricia Iwok*
 :::
 
 # Undergraduate Researchers
 
 ::: {.picture-list}
-* [![Ashton Hoodjer](people/images/profile_AshtonHoodjer.jpg)](people/ashtonhoodjer.html) *Ashton Hoodjer*
-* [![Gracie Wild](people/images/profile_GracieWild.jpg)](people/graciewild.html) *Gracie Wild*
-* [![Maja Davidovic](people/images/profile_MajaDavidovic.jpg)](people/majadavidovic.html) *Maja Davidovic*
+* [![Ashton Hoodjer](people/images/profile_AshtonHoodjer.jpg)](people/ashton-hoodjer.html) *Ashton Hoodjer*
+* [![Gracie Wild](people/images/profile_GracieWild.jpg)](people/gracie-wild.html) *Gracie Wild*
+* [![Maja Davidovic](people/images/profile_MajaDavidovic.jpg)](people/maja-davidovic.html) *Maja Davidovic*
 :::
 
 # Alumni
