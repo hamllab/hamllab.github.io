@@ -4,11 +4,18 @@ editor:
   mode: source
 ---
 
-# Education
+# Research Experience Opportunities
+
+Undergraduate students at UWM can get involved with the lab's research by volunteering, getting course credit, or applying for a fellowship to work as a Research Assistant.
+
+- [Research Assistant](positions/research-assistant.qmd)
+
+Qualified applicants can apply to do research in the lab as part of a Neuroscience PhD degree in the Department of Psychological and Brain Sciences at UWM.
 
 - [Neuroscience PhD](positions/neuroscience-phd.qmd)
 
-# Position
+# Positions
+
+Applicants with a Bachelor's degree in psychology, neuroscience, or a related field and relevant research experience can apply to work as a full-time Research Coordinator.
 
 - [Research Coordinator](positions/research-coordinator.qmd)
-- [Research Assistant](positions/research-assistant.qmd)
